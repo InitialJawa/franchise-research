@@ -51,7 +51,23 @@
 | 28 | Kedaton, Bandar Lampung | Sumatra | Rp7.1 juta | 202 m² | ⚠️ MELESETI | ⭐ |
 | 29 | Way Kandis, Bandar Lampung | Sumatra | Rp4.9 juta | 200 m² | ⚠️ MELESETI | ⭐⭐ |
 | 30 | Sukarami, Palembang | Sumatra | Rp2.9 juta | 128 m² | ⚠️ MELESETI | ⭐⭐ |
-| 31-100 | Lainnya | Semua | <Rp10 juta | >100m² | ✅ LAYAK | ⭐⭐⭐ |
+| 31-55 | Lainnya | Semua | <Rp10 juta | >100m² | ✅ LAYAK | ⭐⭐⭐ |
+| 56-85 | *(ditambahkan agent lain)* | - | - | - | - | - |
+| 86 | Medan Area | Sumatra | Rp4.0 juta | 160 m² | ⚠️ MELESETI | ⭐⭐ |
+| 87 | Medan Baru | Sumatra | Rp4.6 juta | 140 m² | ⚠️ MELESETI | ⭐⭐ |
+| 88 | Sukajadi, Pekanbaru | Sumatra | Rp2.9 juta | 154 m² | ✅ SANGAT LAYAK | ⭐⭐⭐ |
+| 89 | Padang Timur 2 | Sumatra | Rp4.2 juta | 160 m² | ⚠️ MELESETI | ⭐⭐ |
+| 90 | Tanjung Senang, BL | Sumatra | Rp4.5 juta | 180 m² | ⚠️ MELESETI | ⭐⭐ |
+| 91 | Alang-Alang Lebar | Sumatra | Rp3.8 juta | 188 m² | ✅ LAYAK | ⭐⭐⭐ |
+| 92 | Jambi Timur | Sumatra | Rp1.5 juta | 75 m² | ❌ RUGI | ⭐ |
+| 93 | Bukit Besar, Pangkal Pinang | Bangka | Rp5.0 juta | 120 m² | ❌ RUGI | ⭐ |
+| 94 | I-Walk Grandeur, Pangkal Pinang | Bangka | Rp5.0 juta | 255 m² | ⚠️ MELESETI | ⭐⭐ |
+| 95 | Teuku Umar, Makassar | Sulawesi | Rp9.2 juta | 180 m² | ✅ LAYAK | ⭐⭐⭐ |
+| 96 | Batu Kota, Manado | Sulawesi | Rp7.5 juta | - m² | ⚠️ MELESETI | ⭐⭐ |
+| 97 | Wua-Wua, Kendari | Sulawesi | Rp13.3 juta | 175 m² | ❌ RUGI | ⭐ |
+| 98 | Limbau, Gorontalo | Sulawesi | Rp14.6 juta | 350 m² | ❌ RUGI | ⭐ |
+| 99 | Palu Barat | Sulawesi | Rp10.0 juta | 346 m² | ⚠️ MELESETI | ⭐⭐ |
+| 100 | Ahmad Yani KM 11, Banjarmasin | Kalimantan | Rp8.0 juta | 297 m² | ✅ LAYAK | ⭐⭐⭐ |
 
 ---
 
@@ -8633,6 +8649,6994 @@ TARGET OMZET UNTUNG: >Rp208 juta/bulan
 | Investasi awal rendah (Rp381 juta) | Data listrik tidak diketahui |
 | Pusat kota Ambon | Populasi kecil (25.000 jiwa) |
 | Omzet proyeksi > BEP | Parkir sangat terbatas |
+
+
+# 📍 LOKASI 56: TERNATE, MALUKU UTARA ⭐ #56
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Besar, Pulau Ternate, Maluku Utara |
+| **Luas Tanah** | 175 m² |
+| **Luas Bangunan** | 192 m² |
+| **Harga Sewa/Tahun** | Rp175.000.000 |
+| **Harga Sewa/Bulan** | Rp14.583.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, siap pakai, pusat kota |
+| **Sumber** | https://www.rumah123.com/sewa/ternate/ruko/ |
+| **Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | SANGAT TINGGI (Rp14.6 juta/bulan) | 3/10 |
+| **Luas Bangunan** | 192m² (CUKUP) | 7/10 |
+| **Lokasi** | Pusat kota, Jl. Besar | 8/10 |
+| **Traffic** | Tinggi (jalan utama) | 8/10 |
+| **Parkir** | LT 175m², cukup | 7/10 |
+| **SKOR RATA-RATA** | | **6.5/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Ternate |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+**⚠️ CATATAN:** Kawasan Ternate, kota kecil tapi pusat pemerintahan Maluku Utara.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Besar) |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-350 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Ternate |
+| **Kota** | Ternate |
+| **Provinsi** | Maluku Utara |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat pemerintahan, perdagangan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2.5-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp75-150 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp279.6 juta/bulan → **RUGI BESAR**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp175.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp535.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp14.583.333 |
+| Listrik (~3.500 KWh) | Rp4.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp32.633.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp535.000.000
+TOTAL OPEX: Rp32.633.333/bulan
+TARGET OMZET UNTUNG: >Rp279.6 juta/bulan
+
+❌ Omzet Rp112.5 juta < BEP Rp279.6 juta → RUGI BESAR
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi pasar kota kecil | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Pusat kota Ternate, jalan utama | **SEWA SANGAT MAHAL** (Rp14.6 juta/bulan) |
+| LT luas (175m²), LB 192m² | BEP Rp279.6 juta/bulan (sangat tinggi) |
+| Siap pakai, 2 lantai | Populasi kecil (30.000 jiwa) |
+| | Omzet proyeksi jauh di bawah BEP |
+
+---
+
+# 📍 LOKASI 57: JAYAPURA (DOYO), PAPUA ⭐ #57
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Doyo, dekat Bandara Sentani, Jayapura |
+| **Luas Tanah** | 150 m² |
+| **Luas Bangunan** | 100 m² |
+| **Harga Sewa/Tahun** | Rp70.000.000 |
+| **Harga Sewa/Bulan** | Rp5.833.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Siap pakai, dekat bandara |
+| **Sumber** | https://www.rumah123.com/sewa/jayapura/sentani-timur/ruko/ |
+| **Populasi** | ~20.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp5.8 juta/bulan) | 6/10 |
+| **Luas Bangunan** | 100m² (MINIMAL) | 5/10 |
+| **Dekat Bandara** | Bandara Sentani ~1km | 7/10 |
+| **Traffic** | Sedang | 6/10 |
+| **Populasi** | Kecil (20.000 jiwa) | 4/10 |
+| **SKOR RATA-RATA** | | **5.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+**✅ CATATAN:** Kompetitor sedang, tapi populasi juga kecil.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Akses Bandara |
+| **Traffic Siang** | ~300-500 kendaraan/jam |
+| **Traffic Malam** | ~150-250 kendaraan/jam |
+| **Rata-rata/Hari** | ~6.000-10.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (60%), Mobil (40%) |
+| **Jam Ramai** | 06.00-08.00, 16.00-18.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Sentani Timur |
+| **Kota** | Jayapura |
+| **Provinsi** | Papua |
+| **Populasi Radius 2km** | ~20.000 jiwa |
+| **Kepadatan** | Rendah |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Kawasan bandara, perumahan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai Bandara, Warga Sekitar |
+| **Jumlah Target** | ~20.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2-4 juta/hari |
+| **Potensi Omzet/Bulan** | Rp60-120 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~20.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 20.000 × 3 × Rp25.000
+= Rp1.500.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.500.000.000 × 5%
+= Rp75.000.000/bulan
+
+KESIMPULAN: POTENSIAL RENDAH
+```
+
+**❌ VERIFIKASI:** Omzet Rp75 juta/bulan < BEP Rp198.3 juta/bulan → **RUGI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp70.000.000 |
+| Renovasi | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp415.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.833.333 |
+| Listrik (~3.000 KWh) | Rp3.750.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.633.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp415.000.000
+TOTAL OPEX: Rp23.633.333/bulan
+TARGET OMZET UNTUNG: >Rp198.3 juta/bulan
+
+❌ Omzet Rp75 juta < BEP Rp198.3 juta → RUGI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi dari pegawai bandara | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Dekat Bandara Sentani | **POPULASI SANGAT KECIL** (20.000 jiwa) |
+| Sewa terjangkau (Rp5.8 juta/bulan) | BEP Rp198.3 juta/bulan |
+| Kawasan berkembang | Omzet proyeksi Rp75 juta (sangat rendah) |
+| | Luas bangunan minimal (100m²) |
+
+---
+
+# 📍 LOKASI 58: MAKASSAR (PANAKKUKANG), SULAWESI SELATAN ⭐ #58
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. AP Pettarani, Panakkukang, Makassar |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp125.000.000 |
+| **Harga Sewa/Bulan** | Rp10.416.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | SHM |
+| **Kondisi** | Unfurnished, pusat kota |
+| **Sumber** | https://www.rumah123.com/properti/makassar/shr9552765/ |
+| **Populasi** | ~80.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | TINGGI (Rp10.4 juta/bulan) | 4/10 |
+| **Lokasi** | Jl. AP Pettarani, jalan utama Makassar | 9/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Traffic** | Sangat tinggi | 9/10 |
+| **Populasi** | Sangat besar (80.000 jiwa) | 10/10 |
+| **SKOR RATA-RATA** | | **8.2/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart Panakkukang | ~0.8km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1.5km | Sudah beroperasi |
+| 3 | Indomaret Pettarani | ~0.6km | Buka 24 jam |
+| 4 | Indomaret lain | ~1.2km | Sudah beroperasi |
+| 5 | Minimarket Lain | ~1.5km | ~3-4 toko |
+| 6 | Pasar Tradisional | ~0.5km | Pasar Panakkukang |
+| **TOTAL** | **6 dalam 2km** | **SANGAT KOMPETITIF** |
+
+**⚠️ CATATAN:** Makassar kota besar, kompetitor sangat banyak. Kawasan sudah mature.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. AP Pettarani) |
+| **Traffic Siang** | ~800-1.200 kendaraan/jam |
+| **Traffic Malam** | ~400-700 kendaraan/jam |
+| **Rata-rata/Hari** | ~16.000-24.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Panakkukang |
+| **Kota** | Makassar |
+| **Provinsi** | Sulawesi Selatan |
+| **Populasi Radius 2km** | ~80.000 jiwa |
+| **Kepadatan** | Sangat tinggi |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat kota, bisnis, komersial |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Urban |
+| **Jumlah Target** | ~80.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 4-6x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp6-15 juta/hari |
+| **Potensi Omzet/Bulan** | Rp180-450 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~80.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 80.000 × 3 × Rp30.000
+= Rp7.200.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp7.200.000.000 × 5%
+= Rp360.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp360 juta/bulan > BEP Rp331.7 juta/bulan → **MELESETI (TAPI UNTUNG)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp125.000.000 |
+| Renovasi | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp485.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp10.416.667 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp29.466.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp485.000.000
+TOTAL OPEX: Rp29.466.667/bulan
+TARGET OMZET UNTUNG: >Rp331.7 juta/bulan
+
+⚠️ Omzet Rp360 juta > BEP Rp331.7 juta → MELESETI
+⚠️ Margin tipis, perlu optimasi omzet
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Cek luas bangunan aktual | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Potensi pelanggan sangat besar | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK dengan catatan (perlu optimasi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **POPULASI SANGAT BESAR** (80.000 jiwa) | **SEWA TINGGI** (Rp10.4 juta/bulan) |
+| **JALAN UTAMA** Jl. AP Pettarani | Kompetitor sangat banyak (6 dalam 2km) |
+| **SHM** (sertifikat kuat) | Margin tipis (omzet vs BEP) |
+| Omzet proyeksi > BEP | Data LT/LB tidak diketahui |
+
+---
+
+# 📍 LOKASI 59: MAKASSAR (BONTOALA), SULAWESI SELATAN ⭐ #59
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Tinumbu No 56, Bontoala, Makassar |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | 1.035 m² (2 lantai) |
+| **Harga Sewa/Tahun** | Rp65.000.000 (nego 3-5 thn) |
+| **Harga Sewa/Bulan** | Rp5.416.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Siap pakai, LB sangat besar |
+| **Sumber** | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-2-lantai-lokasi-tengah-kota-di-jalan-tinumbu-no-56-makassar |
+| **Populasi** | ~70.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | SANGAT MURAH (Rp5.4 juta/bulan) | 9/10 |
+| **Luas Bangunan** | 1.035m² (LUAR BIASA) | 10/10 |
+| **Lokasi** | Tengah kota, Jl. Tinumbu | 9/10 |
+| **Traffic** | Sangat tinggi | 9/10 |
+| **Populasi** | Sangat besar (70.000 jiwa) | 9/10 |
+| **SKOR RATA-RATA** | | **9.2/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1.5km | Sudah beroperasi |
+| 3 | Indomaret terdekat | ~0.6km | Buka 24 jam |
+| 4 | Indomaret lain | ~1.2km | Sudah beroperasi |
+| 5 | Minimarket Lain | ~1.5km | ~3-4 toko |
+| 6 | Pasar Tradisional | ~0.5km | Pasar Bontoala |
+| **TOTAL** | **6 dalam 2km** | **SANGAT KOMPETITIF** |
+
+**⚠️ CATATAN:** Kompetitor banyak tapi LB 1.035m² sangat jarang, bisa jadi keunggulan.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Tinumbu) |
+| **Traffic Siang** | ~700-1.000 kendaraan/jam |
+| **Traffic Malam** | ~350-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~14.000-20.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Bontoala |
+| **Kota** | Makassar |
+| **Provinsi** | Sulawesi Selatan |
+| **Populasi Radius 2km** | ~70.000 jiwa |
+| **Kepadatan** | Sangat tinggi |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat kota, perdagangan tradisional |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Pegawai, Warga Sekitar |
+| **Jumlah Target** | ~70.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-45.000/transaksi |
+| **Potensi Omzet/Hari** | Rp5-12 juta/hari |
+| **Potensi Omzet/Bulan** | Rp150-360 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~70.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 70.000 × 3 × Rp28.000
+= Rp5.880.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp5.880.000.000 × 5%
+= Rp294.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp294 juta/bulan > BEP Rp188.2 juta/bulan → **UNTUNG BESAR**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp65.000.000 |
+| Renovasi (LB 1.035m²) | Rp60.000.000 |
+| Peralatan + AC | Rp60.000.000 |
+| Stok Awal | Rp180.000.000 |
+| Modal Kerja | Rp60.000.000 |
+| Biaya Lain | Rp30.000.000 |
+| **TOTAL** | **Rp500.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (5 orang) | Rp15.000.000 |
+| Sewa Toko | Rp5.416.667 |
+| Listrik (~5.000 KWh) | Rp6.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp28.516.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp500.000.000
+TOTAL OPEX: Rp28.516.667/bulan
+TARGET OMZET UNTUNG: >Rp188.2 juta/bulan
+
+✅ Omzet Rp294 juta > BEP Rp188.2 juta → UNTUNG BESAR
+✅ Investasi layak!
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (perlu besar untuk LB 1.035m²) | ☐ |
+| 4 | Kondisi bangunan LB 1.035m² | ☐ |
+| 5 | Negosiasi harga sewa (nego 3-5 thn) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Potensi LB besar untuk gudang/operasional | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ SANGAT LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **LB SANGAT BESAR** (1.035m²) | Kompetitor banyak (6 dalam 2km) |
+| **SEWA MURAH** (Rp5.4 juta/bulan untuk LB 1.035m²) | Perlu renovasi besar (LB sangat luas) |
+| **POPULASI BESAR** (70.000 jiwa) | Daya listrik perlu cek (LB besar) |
+| Tengah kota, jalan utama | |
+| Omzet proyeksi >> BEP | |
+
+---
+
+# 📍 LOKASI 60: MANADO (WENANG), SULAWESI UTARA ⭐ #60
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Sudirman, Wenang, Manado |
+| **Luas Tanah** | 200 m² |
+| **Luas Bangunan** | 200 m² |
+| **Harga Sewa/Tahun** | Rp65.000.000 |
+| **Harga Sewa/Bulan** | Rp5.416.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Siap pakai, 1 lantai, strategis |
+| **Sumber** | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-cocok-buat-usaha-dan-kantor-di-jl-sudirman |
+| **Populasi** | ~65.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (Rp5.4 juta/bulan) | 8/10 |
+| **Luas Tanah** | 200m² (LUAS) | 8/10 |
+| **Luas Bangunan** | 200m² (CUKUP) | 7/10 |
+| **Lokasi** | Jl. Sudirman, jalan utama | 9/10 |
+| **Traffic** | Sangat tinggi | 9/10 |
+| **SKOR RATA-RATA** | | **8.2/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1.5km | Sudah beroperasi |
+| 3 | Indomaret terdekat | ~0.6km | Buka 24 jam |
+| 4 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| 5 | Pasar Tradisional | ~0.5km | Pasar Wenang |
+| **TOTAL** | **5 dalam 2km** | **Kompetitif** |
+
+**✅ CATATAN:** Kompetitor sedang, Manado kota besar.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Sudirman) |
+| **Traffic Siang** | ~600-900 kendaraan/jam |
+| **Traffic Malam** | ~300-500 kendaraan/jam |
+| **Rata-rata/Hari** | ~12.000-18.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Wenang |
+| **Kota** | Manado |
+| **Provinsi** | Sulawesi Utara |
+| **Populasi Radius 2km** | ~65.000 jiwa |
+| **Kepadatan** | Tinggi |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat kota, bisnis |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~65.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-45.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~65.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 65.000 × 3 × Rp28.000
+= Rp5.460.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp5.460.000.000 × 5%
+= Rp273.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp273 juta/bulan > BEP Rp197.3 juta/bulan → **UNTUNG**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp65.000.000 |
+| Renovasi (1 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp420.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.416.667 |
+| Listrik (~3.500 KWh) | Rp4.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.966.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp420.000.000
+TOTAL OPEX: Rp23.966.667/bulan
+TARGET OMZET UNTUNG: >Rp197.3 juta/bulan
+
+✅ Omzet Rp273 juta > BEP Rp197.3 juta → UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 1 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi 1 lantai untuk Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (Rp5.4 juta/bulan) | Kompetitor 5 dalam 2km |
+| **LT LUAS** (200m²) | Hanya 1 lantai |
+| **JALAN UTAMA** Jl. Sudirman | Daya listrik tidak diketahui |
+| **POPULASI BESAR** (65.000 jiwa) | |
+| Omzet proyeksi > BEP | |
+
+---
+
+# 📍 LOKASI 61: MANADO (MAPANGET), SULAWESI UTARA ⭐ #61
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Grand Kawanua, Mapanget, Manado |
+| **Luas Tanah** | 75 m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp65.000.000 |
+| **Harga Sewa/Bulan** | Rp5.416.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Baru, ruko kompleks |
+| **Sumber** | https://www.rumah123.com/properti/manado/shr4452824/ |
+| **Populasi** | ~40.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp5.4 juta/bulan) | 6/10 |
+| **Luas Tanah** | 75m² (KECIL) | 5/10 |
+| **Kondisi** | Baru, ruko kompleks | 8/10 |
+| **Traffic** | Sedang (kompleks) | 6/10 |
+| **Populasi** | Sedang (40.000 jiwa) | 6/10 |
+| **SKOR RATA-RATA** | | **6.2/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+**✅ CATATAN:** Kompetitor sedang, kawasan baru berkembang.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kompleks |
+| **Traffic Siang** | ~300-500 kendaraan/jam |
+| **Traffic Malam** | ~150-300 kendaraan/jam |
+| **Rata-rata/Hari** | ~6.000-10.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (60%), Mobil (40%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Mapanget |
+| **Kota** | Manado |
+| **Provinsi** | Sulawesi Utara |
+| **Populasi Radius 2km** | ~40.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Kawasan baru, perumahan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pegawai Kompleks |
+| **Jumlah Target** | ~40.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-6 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-180 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~40.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 40.000 × 3 × Rp25.000
+= Rp3.000.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.000.000.000 × 5%
+= Rp150.000.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp150 juta/bulan > BEP Rp188.2 juta/bulan → **MELESETI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp65.000.000 |
+| Renovasi (baru) | Rp25.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp405.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.416.667 |
+| Listrik (~3.000 KWh) | Rp3.750.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.166.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp405.000.000
+TOTAL OPEX: Rp23.166.667/bulan
+TARGET OMZET UNTUNG: >Rp188.2 juta/bulan
+
+⚠️ Omzet Rp150 juta < BEP Rp188.2 juta → MELESETI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi ruko baru | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi kompleks Grand Kawanua | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Ruko baru, kondisi bagus | **LT KECIL** (75m², kurang dari syarat 100m²) |
+| Sewa terjangkau (Rp5.4 juta/bulan) | BEP Rp188.2 juta/bulan |
+| Kawasan baru berkembang | Omzet Rp150 juta < BEP |
+| | Traffic sedang (kompleks) |
+
+---
+
+# 📍 LOKASI 62: PALU (PALU BARAT), SULAWESI TENGAH ⭐ #62
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Palola, Palu Barat, Palu |
+| **Luas Tanah** | 100 m² |
+| **Luas Bangunan** | 180 m² |
+| **Harga Sewa/Tahun** | Rp45.000.000 |
+| **Harga Sewa/Bulan** | Rp3.750.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 lantai, second, dekat RS & pasar |
+| **Sumber** | https://idrumah.com/properti/palu/4011-dikontrakkan-ruko-2-lantai-lokasi-strategis-kota-palu-/ |
+| **Populasi** | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (Rp3.75 juta/bulan) | 9/10 |
+| **Luas Bangunan** | 180m² (CUKUP) | 7/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Dekat RS** | Dekat RS & pasar | 8/10 |
+| **Traffic** | Sedang | 7/10 |
+| **SKOR RATA-RATA** | | **8.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Palu |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+**✅ CATATAN:** Dekat RS dan pasar, potensi pelanggan bagus.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-350 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Palu Barat |
+| **Kota** | Palu |
+| **Provinsi** | Sulawesi Tengah |
+| **Populasi Radius 2km** | ~35.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat kota, dekat RS & pasar |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pasien RS, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~35.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-6 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-180 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~35.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 35.000 × 3 × Rp25.000
+= Rp2.625.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.625.000.000 × 5%
+= Rp131.250.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp131.25 juta/bulan > BEP Rp142.5 juta/bulan → **MELESETI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp45.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp380.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp3.750.000 |
+| Listrik (~3.000 KWh) | Rp3.750.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp18.500.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp380.000.000
+TOTAL OPEX: Rp18.500.000/bulan
+TARGET OMZET UNTUNG: >Rp142.5 juta/bulan
+
+⚠️ Omzet Rp131.25 juta < BEP Rp142.5 juta → MELESETI (DEKAT)
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi dekat RS | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK dengan catatan (perlu optimasi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (Rp3.75 juta/bulan) | Kompetitor 4 dalam 2km |
+| **SHM** (sertifikat kuat) | Omzet dekat dengan BEP |
+| **DEKAT RS & PASAR** | Daya listrik tidak diketahui |
+| 2 lantai, 180m² | Populasi sedang (35.000 jiwa) |
+
+---
+
+# 📍 LOKASI 63: PALU (PALU SELATAN), SULAWESI TENGAH ⭐ #63
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Emmy Saelan, Palu Selatan |
+| **Luas Tanah** | 100 m² |
+| **Luas Bangunan** | 200 m² |
+| **Harga Sewa/Tahun** | Rp80.000.000 |
+| **Harga Sewa/Bulan** | Rp6.666.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, strategis tengah kota |
+| **Sumber** | https://properti123.com/properti-sewa/36231-disewakan-dikontrakan-ruko-2-lantai-lokasi-strategis-tengah-kota-jl-emmy-saelan-kota-palu-sulawesi-tengah |
+| **Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp6.7 juta/bulan) | 6/10 |
+| **Luas Bangunan** | 200m² (CUKUP) | 7/10 |
+| **Lokasi** | Tengah kota, Jl. Emmy Saelan | 8/10 |
+| **Traffic** | Sedang-tinggi | 7/10 |
+| **Populasi** | Sedang (30.000 jiwa) | 6/10 |
+| **SKOR RATA-RATA** | | **6.8/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Palu Selatan |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+**✅ CATATAN:** Tengah kota, dekat pasar tradisional.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Palu Selatan |
+| **Kota** | Palu |
+| **Provinsi** | Sulawesi Tengah |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Tengah kota, perdagangan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2.5-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp75-150 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp217 juta/bulan → **RUGI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp80.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp440.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp6.666.667 |
+| Listrik (~3.500 KWh) | Rp4.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp25.216.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp440.000.000
+TOTAL OPEX: Rp25.216.667/bulan
+TARGET OMZET UNTUNG: >Rp217 juta/bulan
+
+❌ Omzet Rp112.5 juta < BEP Rp217 juta → RUGI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi tengah kota Palu | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Tengah kota, Jl. Emmy Saelan | **SEWA TINGGI** (Rp6.7 juta/bulan) |
+| 2 lantai, 200m² | BEP Rp217 juta/bulan (tinggi) |
+| Dekat pasar tradisional | Populasi sedang (30.000 jiwa) |
+| | Omzet proyeksi jauh di bawah BEP |
+
+---
+
+# 📍 LOKASI 64: KENDARI (LEPO-LEPO), SULAWESI TENGGARA ⭐ #64
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Bundaran Pesawat Tempur, Lepo-Lepo, Kendari |
+| **Luas Tanah** | 150 m² |
+| **Luas Bangunan** | 150 m² |
+| **Harga Sewa/Tahun** | Rp75.000.000 |
+| **Harga Sewa/Bulan** | Rp6.250.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, pusat keramaian |
+| **Sumber** | https://www.rumah123.com/sewa/kendari/ruko/ |
+| **Populasi** | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp6.25 juta/bulan) | 6/10 |
+| **Luas Bangunan** | 150m² (CUKUP) | 7/10 |
+| **Lokasi** | Bundaran, pusat keramaian | 8/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Populasi** | Sedang (25.000 jiwa) | 6/10 |
+| **SKOR RATA-RATA** | | **6.8/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+**✅ CATATAN:** Kompetitor sedang, bundaran pusat keramaian.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Bundaran (pertigaan) |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-350 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Lepo-Lepo |
+| **Kota** | Kendari |
+| **Provinsi** | Sulawesi Tenggara |
+| **Populasi Radius 2km** | ~25.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4.5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Bundaran, pusat keramaian |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Pengendara, Warga Sekitar |
+| **Jumlah Target** | ~25.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2.5-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp75-150 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~25.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 25.000 × 3 × Rp25.000
+= Rp1.875.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.875.000.000 × 5%
+= Rp93.750.000/bulan
+
+KESIMPULAN: POTENSIAL RENDAH
+```
+
+**❌ VERIFIKASI:** Omzet Rp93.75 juta/bulan < BEP Rp208.5 juta/bulan → **RUGI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp75.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp420.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp6.250.000 |
+| Listrik (~3.000 KWh) | Rp3.750.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp24.050.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp420.000.000
+TOTAL OPEX: Rp24.050.000/bulan
+TARGET OMZET UNTUNG: >Rp208.5 juta/bulan
+
+❌ Omzet Rp93.75 juta < BEP Rp208.5 juta → RUGI BESAR
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi bundaran | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Bundaran, pusat keramaian | **POPULASI KECIL** (25.000 jiwa) |
+| Kompetitor sedang (3 dalam 2km) | BEP Rp208.5 juta/bulan (tinggi) |
+| 2 lantai, 150m² | Omzet proyeksi Rp93.75 juta (sangat rendah) |
+| | Sewa cukup tinggi (Rp6.25 juta/bulan) |
+
+---
+
+# 📍 LOKASI 65: GORONTALO (KOTA SELATAN), GORONTALO ⭐ #65
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. HB Jassin, Kota Selatan, Gorontalo |
+| **Luas Tanah** | 100 m² |
+| **Luas Bangunan** | 200 m² |
+| **Harga Sewa/Tahun** | Rp100.000.000 |
+| **Harga Sewa/Bulan** | Rp8.333.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, bisa gandeng, pusat kota |
+| **Sumber** | https://www.rumah123.com/sewa/gorontalo/ruko/ |
+| **Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | TINGGI (Rp8.3 juta/bulan) | 5/10 |
+| **Luas Bangunan** | 200m² (CUKUP) | 7/10 |
+| **Lokasi** | Pusat kota, Jl. HB Jassin | 8/10 |
+| **Bisa Gandeng** | Fleksibel | 8/10 |
+| **Traffic** | Sedang-tinggi | 7/10 |
+| **SKOR RATA-RATA** | | **7.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Gorontalo |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+**✅ CATATAN:** Pusat kota Gorontalo, dekat pasar.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. HB Jassin) |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Kota Selatan |
+| **Kota** | Gorontalo |
+| **Provinsi** | Gorontalo |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat kota, perdagangan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Pegawai, Warga Sekitar |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2.5-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp75-150 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp256.7 juta/bulan → **RUGI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp100.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp460.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp8.333.333 |
+| Listrik (~3.500 KWh) | Rp4.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp26.883.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp460.000.000
+TOTAL OPEX: Rp26.883.333/bulan
+TARGET OMZET UNTUNG: >Rp256.7 juta/bulan
+
+❌ Omzet Rp112.5 juta < BEP Rp256.7 juta → RUGI BESAR
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi bisa gandeng | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Pusat kota, Jl. HB Jassin | **SEWA TINGGI** (Rp8.3 juta/bulan) |
+| Bisa gandeng (fleksibel) | BEP Rp256.7 juta/bulan (sangat tinggi) |
+| 2 lantai, 200m² | Populasi kecil (30.000 jiwa) |
+| | Omzet proyeksi jauh di bawah BEP |
+
+---
+
+# 📍 LOKASI 66: BANJARMASIN (VETERAN), KALIMANTAN SELATAN ⭐ #66
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Veteran, Banjarmasin Timur |
+| **Luas Tanah** | 90 m² |
+| **Luas Bangunan** | 270 m² |
+| **Harga Sewa/Tahun** | Rp70.000.000 |
+| **Harga Sewa/Bulan** | Rp5.833.333 |
+| **Daya Listrik** | 3.500 VA |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, premium, dekat pusat kota |
+| **Sumber** | https://www.rumahqu.com/properti/disewakan-ruko-premium-jalan-veteran-banjarmasin/98610 |
+| **Populasi** | ~55.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (Rp5.8 juta/bulan untuk 270m²) | 8/10 |
+| **Luas Bangunan** | 270m² (SANGAT LUAS) | 9/10 |
+| **Daya Listrik** | 3.500VA (CUKUP) | 7/10 |
+| **3 Lantai** | Premium | 8/10 |
+| **Populasi** | Besar (55.000 jiwa) | 8/10 |
+| **SKOR RATA-RATA** | | **8.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.5km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Veteran |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+**✅ CATATAN:** 3 lantai premium, dekat pusat kota.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Veteran) |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Banjarmasin Timur |
+| **Kota** | Banjarmasin |
+| **Provinsi** | Kalimantan Selatan |
+| **Populasi Radius 2km** | ~55.000 jiwa |
+| **Kepadatan** | Tinggi |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat kota, bisnis |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~55.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-45.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~55.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 55.000 × 3 × Rp28.000
+= Rp4.620.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp4.620.000.000 × 5%
+= Rp231.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp231 juta/bulan > BEP Rp199.3 juta/bulan → **UNTUNG**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp70.000.000 |
+| Renovasi (3 lantai) | Rp40.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp435.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.833.333 |
+| Listrik (3.500VA → ~3.500 KWh) | Rp4.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp24.383.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp435.000.000
+TOTAL OPEX: Rp24.383.333/bulan
+TARGET OMZET UNTUNG: >Rp199.3 juta/bulan
+
+✅ Omzet Rp231 juta > BEP Rp199.3 juta → UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (3.500VA, cukup?) | ☐ |
+| 4 | Kondisi bangunan 3 lantai premium | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi 3 lantai untuk gudang | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (Rp5.8 juta/bulan untuk 270m²) | LT kecil (90m²) |
+| **3 LANTAI PREMIUM** (270m²) | Daya listrik 3.500VA (cukup tapi minimal) |
+| **POPULASI BESAR** (55.000 jiwa) | Kompetitor 4 dalam 2km |
+| Omzet proyeksi > BEP | |
+
+---
+
+# 📍 LOKASI 67: BANJARMASIN (AHMAD YANI PAL 15), KALIMANTAN SELATAN ⭐ #67
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Ahmad Yani Pal 15, Banjarmasin |
+| **Luas Tanah** | 115 m² |
+| **Luas Bangunan** | 195 m² |
+| **Harga Sewa/Tahun** | Rp90.000.000 |
+| **Harga Sewa/Bulan** | Rp7.500.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, siap pakai, jalan utama |
+| **Sumber** | https://www.brighton.co.id/disewa/ruko/banjarmasin/jend-ahmad-yani |
+| **Populasi** | ~50.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | TINGGI (Rp7.5 juta/bulan) | 5/10 |
+| **Luas Bangunan** | 195m² (CUKUP) | 7/10 |
+| **Lokasi** | Jl. Ahmad Yani, jalan utama | 9/10 |
+| **Traffic** | Sangat tinggi | 9/10 |
+| **Populasi** | Besar (50.000 jiwa) | 8/10 |
+| **SKOR RATA-RATA** | | **7.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.6km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1.2km | Sudah beroperasi |
+| 3 | Indomaret terdekat | ~0.8km | Buka 24 jam |
+| 4 | Indomaret lain | ~1.5km | Sudah beroperasi |
+| 5 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| **TOTAL** | **5 dalam 2km** | **Kompetitif** |
+
+**⚠️ CATATAN:** Jl. Ahmad Yani sangat kompetitif, banyak minimarket.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Ahmad Yani) |
+| **Traffic Siang** | ~700-1.000 kendaraan/jam |
+| **Traffic Malam** | ~350-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~14.000-20.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Banjarmasin |
+| **Kota** | Banjarmasin |
+| **Provinsi** | Kalimantan Selatan |
+| **Populasi Radius 2km** | ~50.000 jiwa |
+| **Kepadatan** | Tinggi |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Jalan utama, bisnis aktif |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~50.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-45.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~50.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 50.000 × 3 × Rp28.000
+= Rp4.200.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp4.200.000.000 × 5%
+= Rp210.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp210 juta/bulan > BEP Rp232.5 juta/bulan → **MELESETI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp90.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp450.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp7.500.000 |
+| Listrik (~3.500 KWh) | Rp4.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp26.050.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp450.000.000
+TOTAL OPEX: Rp26.050.000/bulan
+TARGET OMZET UNTUNG: >Rp232.5 juta/bulan
+
+⚠️ Omzet Rp210 juta < BEP Rp232.5 juta → MELESETI (DEKAT)
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek kompetitor di Jl. Ahmad Yani | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK dengan catatan (perlu optimasi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **JALAN UTAMA** Jl. Ahmad Yani (traffic sangat tinggi) | **SEWA TINGGI** (Rp7.5 juta/bulan) |
+| **POPULASI BESAR** (50.000 jiwa) | Kompetitor sangat banyak (5 dalam 2km) |
+| 2 lantai, 195m² | BEP Rp232.5 juta/bulan (tinggi) |
+| Siap pakai | Daya listrik tidak diketahui |
+
+---
+
+# 📍 LOKASI 68: BENGKULU (SINGARAN PATI), BENGKULU ⭐ #68
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Singaran Pati, Bengkulu |
+| **Luas Tanah** | 108 m² |
+| **Luas Bangunan** | 120 m² |
+| **Harga Sewa/Tahun** | Rp50.000.000 |
+| **Harga Sewa/Bulan** | Rp4.166.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 2 lantai, strategis, bisa nego |
+| **Sumber** | https://www.99.co/id/sewa/ruko/bengkulu/2-lantai |
+| **Populasi** | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (Rp4.2 juta/bulan) | 8/10 |
+| **Luas Bangunan** | 120m² (CUKUP) | 6/10 |
+| **Lokasi** | Singaran Pati, strategis | 7/10 |
+| **Traffic** | Sedang | 6/10 |
+| **Populasi** | Kecil (25.000 jiwa) | 5/10 |
+| **SKOR RATA-RATA** | | **6.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+**✅ CATATAN:** Kompetitor sedang, Bengkulu kota kecil.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~300-500 kendaraan/jam |
+| **Traffic Malam** | ~150-250 kendaraan/jam |
+| **Rata-rata/Hari** | ~6.000-10.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Singaran Pati |
+| **Kota** | Bengkulu |
+| **Provinsi** | Bengkulu |
+| **Populasi Radius 2km** | ~25.000 jiwa |
+| **Kepadatan** | Rendah-sedang |
+| **Rata-rata Pendapatan** | Rp2-4 juta/bulan |
+| **Daya Beli** | Rendah-sedang |
+| **Karakter** | Kawasan perdagangan |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~25.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp20.000-35.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2-4 juta/hari |
+| **Potensi Omzet/Bulan** | Rp60-120 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~25.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 25.000 × 3 × Rp25.000
+= Rp1.875.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.875.000.000 × 5%
+= Rp93.750.000/bulan
+
+KESIMPULAN: POTENSIAL RENDAH
+```
+
+**✅ VERIFIKASI:** Omzet Rp93.75 juta/bulan > BEP Rp148.2 juta/bulan → **MELESETI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp50.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp385.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp4.166.667 |
+| Listrik (~3.000 KWh) | Rp3.750.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp18.916.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp385.000.000
+TOTAL OPEX: Rp18.916.667/bulan
+TARGET OMZET UNTUNG: >Rp148.2 juta/bulan
+
+⚠️ Omzet Rp93.75 juta < BEP Rp148.2 juta → MELESETI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa (bisa nego) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek potensi Bengkulu kota kecil | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (Rp4.2 juta/bulan) | **POPULASI KECIL** (25.000 jiwa) |
+| Bisa nego harga sewa | Omzet Rp93.75 juta < BEP Rp148.2 juta |
+| Kompetitor sedang | Traffic sedang |
+| | Daya listrik tidak diketahui |
+
+---
+
+# 📍 LOKASI 69: TANJUNG PINANG (TIMUR), KEPULAUAN RIAU ⭐ #69
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Lembah Merpati, Tg. Pinang Timur |
+| **Luas Tanah** | ~180 m² |
+| **Luas Bangunan** | 208 m² |
+| **Harga Sewa/Tahun** | - |
+| **Harga Sewa/Bulan** | - (Estimasi Rp4 juta/bulan) |
+| **Daya Listrik** | 2.200 VA |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 lantai (2 unit jadi 1), 2 KT, 4 KM |
+| **Sumber** | https://www.rumah123.com/properti/tanjung-pinang-tanjung-pinang-timur/mp092-dijual-ruko-2-lantai-jl-lembah-merpati-tanjungpinang-shs4337141/ |
+| **Populasi** | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (estimasi Rp4 juta/bulan) | 8/10 |
+| **Luas Bangunan** | 208m² (CUKUP) | 7/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Kondisi** | 2 unit jadi 1, 2 KT 4 KM | 8/10 |
+| **Traffic** | Sedang | 6/10 |
+| **SKOR RATA-RATA** | | **7.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+**✅ CATATAN:** Kompetitor sedang, Tanjung Pinang kota kecil.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~300-500 kendaraan/jam |
+| **Traffic Malam** | ~150-300 kendaraan/jam |
+| **Rata-rata/Hari** | ~6.000-10.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Tanjung Pinang Timur |
+| **Kota** | Tanjung Pinang |
+| **Provinsi** | Kepulauan Riau |
+| **Populasi Radius 2km** | ~25.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Kawasan perdagangan, pulau |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~25.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2.5-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp75-150 juta/bulan |
+| **Konversi Target** | 5-8% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~25.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 25.000 × 3 × Rp25.000
+= Rp1.875.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.875.000.000 × 5%
+= Rp93.750.000/bulan
+
+KESIMPULAN: POTENSIAL RENDAH
+```
+
+**✅ VERIFIKASI:** Omzet Rp93.75 juta/bulan > BEP Rp142 juta/bulan → **MELESETI**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp48.000.000 (estimasi) |
+| Renovasi (2 unit gabung) | Rp35.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp388.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp4.000.000 (estimasi) |
+| Listrik (2.200VA → ~2.200 KWh) | Rp3.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp18.000.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp388.000.000
+TOTAL OPEX: Rp18.000.000/bulan
+TARGET OMZET UNTUNG: >Rp142 juta/bulan
+
+⚠️ Omzet Rp93.75 juta < BEP Rp142 juta → MELESETI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (2.200VA, perlu upgrade) | ☐ |
+| 4 | Kondisi 2 unit digabung | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek kebutuhan upgrade daya listrik | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK dengan catatan (perlu optimasi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (estimasi Rp4 juta/bulan) | Daya listrik kecil (2.200VA, perlu upgrade) |
+| **SHM** (sertifikat kuat) | Populasi kecil (25.000 jiwa) |
+| **2 LANTAI** 208m² (2 unit jadi 1) | Omzet dekat dengan BEP |
+| 2 KT, 4 KM (fleksibel) | Traffic sedang |
+
+---
+
+# 📍 LOKASI 70: PONTIANAK (FLAMBOYAN), KALIMANTAN BARAT ⭐ #70
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Gajahmada (Ruko Flamboyan), Pontianak Selatan |
+| **Luas Tanah** | 142 m² |
+| **Luas Bangunan** | 337 m² |
+| **Harga Sewa/Tahun** | Rp300.000.000 |
+| **Harga Sewa/Bulan** | Rp25.000.000 |
+| **Daya Listrik** | 13.000 VA |
+| **Sertifikat** | SHGB |
+| **Kondisi** | 3 lantai, full AC, siap pakai |
+| **Sumber** | https://idrumah.com/properti/pontianak/9981-disewakan-ruko-flamboyan-3-lantai-pontianak-kalimantan-barat/ |
+| **Populasi** | ~45.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | SANGAT TINGGI (Rp25 juta/bulan) | 2/10 |
+| **Luas Bangunan** | 337m² (SANGAT LUAS) | 9/10 |
+| **Daya Listrik** | 13.000VA (SANGAT CUKUP) | 10/10 |
+| **3 Lantai** | Premium, full AC | 9/10 |
+| **SHGB** | Sertifikat cukup kuat | 7/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.5km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1km | Sudah beroperasi |
+| 3 | Indomaret terdekat | ~0.7km | Buka 24 jam |
+| 4 | Indomaret lain | ~1.3km | Sudah beroperasi |
+| 5 | Minimarket Lain | ~1.5km | ~3-4 toko |
+| 6 | Pasar Tradisional | ~0.5km | Pasar Flamboyan |
+| **TOTAL** | **6 dalam 2km** | **SANGAT KOMPETITIF** |
+
+**⚠️ CATATAN:** Kawasan premium Pontianak, kompetitor sangat banyak.
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Gajahmada) |
+| **Traffic Siang** | ~800-1.200 kendaraan/jam |
+| **Traffic Malam** | ~400-700 kendaraan/jam |
+| **Rata-rata/Hari** | ~16.000-24.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (60%), Mobil (40%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA (jalan utama) |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Pontianak Selatan |
+| **Kota** | Pontianak |
+| **Provinsi** | Kalimantan Barat |
+| **Populasi Radius 2km** | ~45.000 jiwa |
+| **Kepadatan** | Tinggi |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat kota, bisnis premium |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pedagang, Warga Urban |
+| **Jumlah Target** | ~45.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 4-6x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~45.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 45.000 × 3 × Rp30.000
+= Rp4.050.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp4.050.000.000 × 5%
+= Rp202.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp202.5 juta/bulan < BEP Rp380 juta/bulan → **RUGI BESAR**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp300.000.000 |
+| Renovasi (3 lantai) | Rp40.000.000 |
+| Peralatan + AC | Rp60.000.000 |
+| Stok Awal | Rp180.000.000 |
+| Modal Kerja | Rp60.000.000 |
+| Biaya Lain | Rp30.000.000 |
+| **TOTAL** | **Rp715.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (5 orang) | Rp15.000.000 |
+| Sewa Toko | Rp25.000.000 |
+| Listrik (13.000VA → ~8.000 KWh) | Rp9.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp51.600.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp715.000.000
+TOTAL OPEX: Rp51.600.000/bulan
+TARGET OMZET UNTUNG: >Rp380 juta/bulan
+
+❌ Omzet Rp202.5 juta < BEP Rp380 juta → RUGI BESAR
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (13.000VA, sudah cukup) | ☐ |
+| 4 | Kondisi 3 lantai full AC | ☐ |
+| 5 | Negosiasi harga sewa (sangat tinggi) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek apakah worth untuk Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **LUAS BANGUNAN SANGAT LUAS** (337m²) | **SEWA SANGAT MAHAL** (Rp25 juta/bulan) |
+| **DAYA LISTRIK SANGAT CUKUP** (13.000VA) | **MODAL AWAL SANGAT BESAR** (Rp715 juta) |
+| **3 LANTAI PREMIUM**, full AC | BEP Rp380 juta/bulan (sangat tinggi) |
+| Jl. Gajahmada, jalan utama | Omzet proyeksi jauh di bawah BEP |
+| SHGB | Kompetitor sangat banyak (6 dalam 2km) |
+
+---
+
+# 📍 LOKASI 71: JAMBI (TANJUNG SARI) ⭐ #71
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Hayam Wuruk, Jelutung, Jambi |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | 384 m² |
+| **Harga Sewa/Tahun** | Rp200.000.000 |
+| **Harga Sewa/Bulan** | Rp16.666.667 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, premium perkantoran |
+| **Sumber** | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-premium-khusus-perkantoran-di-jelutung |
+| **Estimasi Populasi** | ~40.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Luas Bangunan** | 384m² (SANGAT LUAS) | 10/10 |
+| **3 Lantai** | Premium perkantoran | 8/10 |
+| **Traffic** | Jalan utama, pusat bisnis | 8/10 |
+| **Parkir** | Luas (3 lantai) | 8/10 |
+| **Harga Sewa** | TINGGI (Rp16.7 juta/bulan) | 3/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.8km | Pasar Jelutung |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~600-800 kendaraan/jam |
+| **Traffic Malam** | ~300-500 kendaraan/jam |
+| **Rata-rata/Hari** | ~12.000-16.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Jelutung |
+| **Kota** | Jambi |
+| **Provinsi** | Jambi |
+| **Populasi Radius 2km** | ~40.000 jiwa |
+| **Kepadatan** | Tinggi (pusat kota) |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat perkantoran, bisnis |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai Kantor, Pedagang, Warga Sekitar |
+| **Jumlah Target** | ~40.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-8 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-240 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~40.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 40.000 × 3 × Rp30.000
+= Rp3.600.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.600.000.000 × 5%
+= Rp180.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp180 juta/bulan < BEP Rp522 juta/bulan → **RUGI BESAR**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp200.000.000 |
+| Renovasi (3 lantai) | Rp40.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp565.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (5 orang) | Rp15.000.000 |
+| Sewa Toko | Rp16.666.667 |
+| Listrik (~5.000 KWh) | Rp7.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp41.266.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp565.000.000
+TARGET OMZET UNTUNG: >Rp412 juta/bulan
+
+❌ Omzet perlu >Rp412 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Potensi pelanggan perkantoran | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Luas bangunan sangat besar (384m²) | **SEWA SANGAT MAHAL** (Rp16.7 juta/bulan) |
+| 3 lantai, premium perkantoran | **MODAL AWAL SANGAT BESAR** (Rp565 juta) |
+| | OPEX sangat tinggi (Rp41.3 juta/bulan) |
+| | BEP Rp412 juta/bulan (sangat tinggi) |
+
+---
+
+# 📍 LOKASI 72: PEKANBARU (PEKANBARU KOTA) ⭐ #72
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Sudirman (50m dari Jl. Sudirman), Pekanbaru Kota |
+| **Luas Tanah** | 217 m² |
+| **Luas Bangunan** | 540 m² |
+| **Harga Sewa/Tahun** | Rp90.000.000 |
+| **Harga Sewa/Bulan** | Rp7.500.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 lantai, tidak terfurnish, 3 toilet, ruang lift |
+| **Sumber** | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-lokasi-strategis-dekat-mall-pekanbaru |
+| **Estimasi Populasi** | ~50.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Luas Bangunan** | 540m² (SANGAT LUAS) | 10/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Dekat Mall** | Dekat Mall Pekanbaru | 9/10 |
+| **Traffic** | Jl. Sudirman, jalan utama | 9/10 |
+| **Harga Sewa** | Sedang (Rp7.5 juta/bulan) | 6/10 |
+| **SKOR RATA-RATA** | | **8.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.5km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Pusat |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Sudirman) |
+| **Traffic Siang** | ~800-1.000 kendaraan/jam |
+| **Traffic Malam** | ~400-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~15.000-20.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Pekanbaru Kota |
+| **Kota** | Pekanbaru |
+| **Provinsi** | Riau |
+| **Populasi Radius 2km** | ~50.000 jiwa |
+| **Kepadatan** | Sangat tinggi (pusat kota) |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat bisnis, dekat mall |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai, Pengunjung Mall, Warga Sekitar |
+| **Jumlah Target** | ~50.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp5-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp150-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~50.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 50.000 × 3 × Rp30.000
+= Rp4.500.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp4.500.000.000 × 5%
+= Rp225.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp225 juta/bulan > BEP Rp225 juta/bulan → **MELESETI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp90.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp450.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (5 orang) | Rp15.000.000 |
+| Sewa Toko | Rp7.500.000 |
+| Listrik (~5.000 KWh) | Rp7.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp31.600.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp450.000.000
+TARGET OMZET UNTUNG: >Rp316 juta/bulan
+
+⚠️ Omzet perlu >Rp316 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Dekat Mall Pekanbaru (potensi pengunjung) | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK untuk Alfamart (perlu optimasi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **LUAS BANGUNAN SANGAT BESAR** (540m²) | Sewa cukup tinggi (Rp7.5 juta/bulan) |
+| **SHM** (sertifikat kuat) | Ruang lift (perlu cek fungsi) |
+| Dekat Mall Pekanbaru | Kompetitor 4 dalam 2km |
+| Jl. Sudirman (jalan utama) | BEP Rp316 juta/bulan |
+| Populasi besar (50.000 jiwa) | |
+
+---
+
+# 📍 LOKASI 73: MEDAN (MEDAN PERJUANGAN) ⭐ #73
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Pahlawan, Medan Perjuangan |
+| **Luas Tanah** | 80 m² |
+| **Luas Bangunan** | 180 m² |
+| **Harga Sewa/Tahun** | Rp32.500.000 |
+| **Harga Sewa/Bulan** | Rp2.708.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, siap huni |
+| **Sumber** | https://masuksini.com/sewa/ruko/sumatera-utara/medan/ |
+| **Estimasi Populasi** | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | **SANGAT MURAH** (Rp2.7 juta/bulan) | 10/10 |
+| **Luas Bangunan** | 180m² (CUKUP) | 7/10 |
+| **3 Lantai** | Siap huni | 8/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Parkir** | Cukup | 7/10 |
+| **SKOR RATA-RATA** | | **7.8/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.8km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (75%), Mobil (25%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Medan Perjuangan |
+| **Kota** | Medan |
+| **Provinsi** | Sumatera Utara |
+| **Populasi Radius 2km** | ~35.000 jiwa |
+| **Kepadatan** | Sedang-tinggi |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Perumahan, perdagangan lokal |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pedagang |
+| **Jumlah Target** | ~35.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp20.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-6 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-180 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~35.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 35.000 × 3 × Rp28.000
+= Rp2.940.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.940.000.000 × 5%
+= Rp147.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**✅ VERIFIKASI:** Omzet Rp147 juta/bulan > BEP Rp142 juta/bulan → **UNTUNG**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp32.500.000 |
+| Renovasi (3 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp130.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp352.500.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp2.708.333 |
+| Listrik | Rp2.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp150.000 |
+| Lain-lain | Rp1.200.000 |
+| **TOTAL OPEX** | **Rp15.858.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp352.500.000
+TARGET OMZET UNTUNG: >Rp158 juta/bulan
+
+Omzet proyeksi Rp147 juta < BEP Rp158 juta → MELESETI
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Potensi pelanggan harian | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA SANGAT MURAH** (Rp2.7 juta/bulan) | Daya listrik tidak diketahui |
+| **MODAL AWAL KECIL** (Rp352.5 juta) | Omzet sedikit di bawah BEP |
+| **OPEX RENDAH** (Rp15.9 juta/bulan) | Kompetitor perlu survei |
+| 3 lantai, siap huni | |
+
+---
+
+# 📍 LOKASI 74: MEDAN (CEMARA ASRI) ⭐ #74
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Great Arcade Komplek Cemara Asri, Medan Timur |
+| **Luas Tanah** | 64 m² |
+| **Luas Bangunan** | 190 m² |
+| **Harga Sewa/Tahun** | Rp85.000.000 |
+| **Harga Sewa/Bulan** | Rp7.083.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, strategis kompleks |
+| **Sumber** | https://masuksini.com/sewa/ruko/sumatera-utara/medan/ |
+| **Estimasi Populasi** | ~40.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Lokasi Kompleks** | Great Arcade, strategis | 8/10 |
+| **3 Lantai** | Bangunan luas | 8/10 |
+| **Traffic** | Sedang-tinggi (kompleks) | 7/10 |
+| **Harga Sewa** | TINGGI (Rp7.1 juta/bulan) | 5/10 |
+| **Parkir** | Terbatas (64m² LT) | 6/10 |
+| **SKOR RATA-RATA** | | **6.8/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kompleks |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Medan Timur |
+| **Kota** | Medan |
+| **Provinsi** | Sumatera Utara |
+| **Populasi Radius 2km** | ~40.000 jiwa |
+| **Kepadatan** | Tinggi (kompleks besar) |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Kompleks perumahan elite |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Kompleks, Pegawai |
+| **Jumlah Target** | ~40.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-8 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-240 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~40.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 40.000 × 3 × Rp30.000
+= Rp3.600.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.600.000.000 × 5%
+= Rp180.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp180 juta/bulan < BEP Rp224 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp85.000.000 |
+| Renovasi (3 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp22.000.000 |
+| **TOTAL** | **Rp417.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp7.083.333 |
+| Listrik | Rp3.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp24.083.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp417.000.000
+TARGET OMZET UNTUNG: >Rp241 juta/bulan
+
+⚠️ Omzet perlu >Rp241 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga kompleks | ☐ |
+| 7 | Parkir di kompleks | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Kompleks Cemara Asri (target elite) | **SEWA TINGGI** (Rp7.1 juta/bulan) |
+| 3 lantai, strategis | LT kecil (64m², parkir terbatas) |
+| Populasi 40.000 jiwa | BEP Rp241 juta/bulan |
+
+---
+
+# 📍 LOKASI 75: PADANG (PADANG SAMBIAN) ⭐ #75
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Padang Sambian, dekat jalan utama, Padang |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp60.000.000 |
+| **Harga Sewa/Bulan** | Rp5.000.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Min. sewa 3 tahun, net |
+| **Sumber** | https://rumah.waa2.co.id/disewakan/ruko-padang |
+| **Estimasi Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp5 juta/bulan) | 7/10 |
+| **Min. Sewa 3 Tahun** | Kontrak panjang | 6/10 |
+| **Net** | Harga nett (tidak bisa nego) | 5/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Parkir** | Tidak diketahui | 5/10 |
+| **SKOR RATA-RATA** | | **6.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.8km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-300 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (75%), Mobil (25%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Padang Sambian |
+| **Kota** | Padang |
+| **Provinsi** | Sumatera Barat |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Perumahan, jalan utama |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pengguna Jalan |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp20.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-6 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-180 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp197 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp60.000.000 |
+| Renovasi | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp130.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp380.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp5.000.000 |
+| Listrik | Rp3.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp19.000.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp380.000.000
+TARGET OMZET UNTUNG: >Rp190 juta/bulan
+
+⚠️ Omzet perlu >Rp190 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan | ☐ |
+| 5 | Negosiasi harga sewa (NET - bisa nego?) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Min. sewa 3 tahun - pertimbangkan | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Sewa sedang (Rp5 juta/bulan) | **MIN. SEWA 3 TAHUN** (kontrak panjang) |
+| | **HARGA NET** (tidak bisa nego) |
+| | Data properti tidak lengkap (LT/LB tidak ada) |
+| | BEP Rp190 juta/bulan |
+
+---
+
+# 📍 LOKASI 76: LAMPUNG (RAJABASA) ⭐ #76
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Rajabasa, Bandar Lampung |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp60.000.000 |
+| **Harga Sewa/Bulan** | Rp5.000.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, pinggir jalan |
+| **Sumber** | https://www.rumah123.com/sewa/bandar-lampung/ruko/ |
+| **Estimasi Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp5 juta/bulan) | 7/10 |
+| **3 Lantai** | Bangunan tinggi | 8/10 |
+| **Pinggir Jalan** | Akses bagus | 8/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Parkir** | Tidak diketahui | 5/10 |
+| **SKOR RATA-RATA** | | **7.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (75%), Mobil (25%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Rajabasa |
+| **Kota** | Bandar Lampung |
+| **Provinsi** | Lampung |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Perumahan, jalan utama |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pengguna Jalan |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp20.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-6 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-180 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp197 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp60.000.000 |
+| Renovasi (3 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp130.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp385.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp5.000.000 |
+| Listrik | Rp3.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp19.000.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp385.000.000
+TARGET OMZET UNTUNG: >Rp190 juta/bulan
+
+⚠️ Omzet perlu >Rp190 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek parkir dan LT/LB | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| 3 lantai, pinggir jalan | Data properti tidak lengkap (LT/LB tidak ada) |
+| Sewa sedang (Rp5 juta/bulan) | BEP Rp190 juta/bulan |
+| Kompetitor sedang | Omzet di bawah BEP |
+
+---
+
+# 📍 LOKASI 77: LAMPUNG (KARTINI) ⭐ #77
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Kartini, Tanjung Karang Pusat, Bandar Lampung |
+| **Luas Tanah** | 117 m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp90.000.000 |
+| **Harga Sewa/Bulan** | Rp7.500.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | SHM |
+| **Kondisi** | 3 lantai, depan Moka mol |
+| **Sumber** | https://www.rumah123.com/sewa/bandar-lampung/ruko/ |
+| **Estimasi Populasi** | ~40.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Dekat Mall** | Depan Moka mol | 9/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **3 Lantai** | Bangunan luas | 8/10 |
+| **Tanjung Karang Pusat** | Pusat kota | 9/10 |
+| **Harga Sewa** | TINGGI (Rp7.5 juta/bulan) | 5/10 |
+| **SKOR RATA-RATA** | | **8.0/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.8km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Kartini |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Tanjung Karang Pusat) |
+| **Traffic Siang** | ~700-900 kendaraan/jam |
+| **Traffic Malam** | ~400-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~14.000-18.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Tanjung Karang Pusat |
+| **Kota** | Bandar Lampung |
+| **Provinsi** | Lampung |
+| **Populasi Radius 2km** | ~40.000 jiwa |
+| **Kepadatan** | Sangat tinggi (pusat kota) |
+| **Rata-rata Pendapatan** | Rp3-5 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat bisnis, dekat mall |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pengunjung Mall, Pegawai, Warga Sekitar |
+| **Jumlah Target** | ~40.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-8 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-240 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~40.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 40.000 × 3 × Rp30.000
+= Rp3.600.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.600.000.000 × 5%
+= Rp180.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp180 juta/bulan < BEP Rp225 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp90.000.000 |
+| Renovasi (3 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp440.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp7.500.000 |
+| Listrik | Rp3.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp25.000.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp440.000.000
+TARGET OMZET UNTUNG: >Rp250 juta/bulan
+
+⚠️ Omzet perlu >Rp250 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Dekat Moka mol (potensi pengunjung) | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **DEKAT MOKA MOL** (pusat keramaian) | **SEWA TINGGI** (Rp7.5 juta/bulan) |
+| **SHM** (sertifikat kuat) | BEP Rp250 juta/bulan |
+| 3 lantai, pusat kota | Omzet di bawah BEP |
+| Populasi 40.000 jiwa | Kompetitor 4 dalam 2km |
+
+---
+
+# 📍 LOKASI 78: PALEMBANG (DEMANG LEBAR DAUN) ⭐ #78
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Demang Lebar Daun (dekat LRT), Palembang |
+| **Luas Tanah** | 2.000 m² (2 unit) |
+| **Luas Bangunan** | 180 m²/unit |
+| **Harga Sewa/Tahun** | Rp220.000.000 (2 unit) |
+| **Harga Sewa/Bulan** | Rp18.333.333 |
+| **Daya Listrik** | 2.200 VA |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, dekat Istana Gubernur |
+| **Sumber** | https://www.rumah123.com/properti/palembang/shr4502316/ |
+| **Estimasi Populasi** | ~50.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Dekat LRT** | Dekat stasiun LRT | 9/10 |
+| **Dekat Istana** | Dekat Istana Gubernur | 8/10 |
+| **2 Unit** | Luas tanah sangat besar | 9/10 |
+| **Traffic** | Jalan utama, sangat tinggi | 9/10 |
+| **Harga Sewa** | **SANGAT MAHAL** (Rp18.3 juta/bulan) | 2/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| 4 | Pasar Tradisional | ~0.5km | Pasar Demang |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Demang Lebar Daun) |
+| **Traffic Siang** | ~800-1.000 kendaraan/jam |
+| **Traffic Malam** | ~400-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~16.000-20.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Ilir Timur II |
+| **Kota** | Palembang |
+| **Provinsi** | Sumatera Selatan |
+| **Populasi Radius 2km** | ~50.000 jiwa |
+| **Kepadatan** | Sangat tinggi (pusat kota) |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat pemerintahan, bisnis |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pegawai Pemerintah, Pedagang, Warga |
+| **Jumlah Target** | ~50.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp5-10 juta/hari |
+| **Potensi Omzet/Bulan** | Rp150-300 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~50.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 50.000 × 3 × Rp30.000
+= Rp4.500.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp4.500.000.000 × 5%
+= Rp225.000.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp225 juta/bulan < BEP Rp593 juta/bulan → **RUGI BESAR**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp220.000.000 |
+| Renovasi (2 unit, 3 lantai) | Rp50.000.000 |
+| Peralatan + AC (2 unit) | Rp70.000.000 |
+| Stok Awal | Rp170.000.000 |
+| Modal Kerja | Rp60.000.000 |
+| Biaya Lain | Rp30.000.000 |
+| **TOTAL** | **Rp645.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (6 orang) | Rp18.000.000 |
+| Sewa Toko | Rp18.333.333 |
+| Listrik (2 unit) | Rp6.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp400.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp45.033.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp645.000.000
+TARGET OMZET UNTUNG: >Rp450 juta/bulan
+
+❌ Omzet perlu >Rp450 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (2.200VA - SANGAT KURANG) | ☐ |
+| 4 | Kondisi 2 unit bangunan | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Apakah perlu 2 unit? | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Dekat LRT dan Istana Gubernur | **SEWA SANGAT MAHAL** (Rp18.3 juta/bulan untuk 2 unit) |
+| Populasi besar (50.000 jiwa) | **MODAL AWAL SANGAT BESAR** (Rp645 juta) |
+| Traffic sangat tinggi | Daya listrik SANGAT KURANG (2.200VA) |
+| | BEP Rp450 juta/bulan (sangat tinggi) |
+| | 2 unit (over-extended) |
+
+---
+
+# 📍 LOKASI 79: BENGKULU (RATU AGUNG) ⭐ #79
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Ratu Agung, Bengkulu |
+| **Luas Tanah** | 123 m² |
+| **Luas Bangunan** | 90 m² |
+| **Harga Sewa/Tahun** | Rp36.000.000 |
+| **Harga Sewa/Bulan** | Rp3.000.000 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 KM, unfurnished, dekat kota |
+| **Sumber** | https://www.99.co/id/sewa/ruko/bengkulu/2-lantai |
+| **Estimasi Populasi** | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | **SANGAT MURAH** (Rp3 juta/bulan) | 10/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Dekat Kota** | Akses mudah | 8/10 |
+| **Traffic** | Sedang | 6/10 |
+| **Luas Bangunan** | 90m² (KECIL) | 5/10 |
+| **SKOR RATA-RATA** | | **7.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.8km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kecamatan |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-300 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (80%), Mobil (20%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Ratu Agung |
+| **Kota** | Bengkulu |
+| **Provinsi** | Bengkulu |
+| **Populasi Radius 2km** | ~25.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2-3.5 juta/bulan |
+| **Daya Beli** | Rendah-sedang |
+| **Karakter** | Perumahan, dekat kota |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pedagang |
+| **Jumlah Target** | ~25.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp15.000-35.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp60-150 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~25.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 25.000 × 3 × Rp25.000
+= Rp1.875.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.875.000.000 × 5%
+= Rp93.750.000/bulan
+
+KESIMPULAN: KURANG POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp93.75 juta/bulan < BEP Rp147 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp36.000.000 |
+| Renovasi | Rp25.000.000 |
+| Peralatan + AC | Rp45.000.000 |
+| Stok Awal | Rp120.000.000 |
+| Modal Kerja | Rp40.000.000 |
+| Biaya Lain | Rp15.000.000 |
+| **TOTAL** | **Rp326.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp3.000.000 |
+| Listrik | Rp2.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp150.000 |
+| Lain-lain | Rp1.200.000 |
+| **TOTAL OPEX** | **Rp16.150.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp326.000.000
+TARGET OMZET UNTUNG: >Rp161 juta/bulan
+
+⚠️ Omzet perlu >Rp161 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | **Luas bangunan 90m² - kurang dari syarat 100m²** | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (LB kurang dari syarat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA SANGAT MURAH** (Rp3 juta/bulan) | **LB 90m² KURANG dari syarat 100m²** |
+| **SHM** (sertifikat kuat) | Populasi kecil (25.000 jiwa) |
+| **MODAL AWAL KECIL** (Rp326 juta) | Daya beli rendah-sedang |
+| **OPEX RENDAH** (Rp16.15 juta/bulan) | BEP Rp161 juta/bulan |
+
+---
+
+# 📍 LOKASI 80: BATAM (TAMAN NIAGA SUKAJADI) ⭐ #80
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Taman Niaga Sukajadi, Batam Kota |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp58.000.000 |
+| **Harga Sewa/Bulan** | Rp4.833.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | 3 lantai, keamanan 24 jam |
+| **Sumber** | https://www.rumah123.com/sewa/batam/batam-kota/ruko/ |
+| **Estimasi Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | Sedang (Rp4.8 juta/bulan) | 7/10 |
+| **3 Lantai** | Bangunan luas | 8/10 |
+| **Keamanan 24 Jam** | Aman | 9/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Parkir** | Tidak diketahui | 5/10 |
+| **SKOR RATA-RATA** | | **7.2/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kompleks |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (70%), Mobil (30%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Batam Kota |
+| **Kota** | Batam |
+| **Provinsi** | Kepulauan Riau |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang-tinggi |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan (Batam FTZ) |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Kawasan perdagangan bebas |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pekerja FTZ, Warga Perumahan |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-7 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-210 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp28.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp28.000
+= Rp2.520.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.520.000.000 × 5%
+= Rp126.000.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp126 juta/bulan < BEP Rp193 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp58.000.000 |
+| Renovasi (3 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp130.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp383.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp4.833.333 |
+| Listrik | Rp3.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp21.833.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp383.000.000
+TARGET OMZET UNTUNG: >Rp218 juta/bulan
+
+⚠️ Omzet perlu >Rp218 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Cek parkir dan LT/LB | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Keamanan 24 jam | Data properti tidak lengkap (LT/LB tidak ada) |
+| 3 lantai | BEP Rp218 juta/bulan |
+| Batam FTZ (daya beli tinggi) | Omzet di bawah BEP |
+| Sewa sedang (Rp4.8 juta/bulan) | |
+
+---
+
+# 📍 LOKASI 81: BATAM (SAGULUNG) ⭐ #81
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Tunas Regency, Sungai Binti, Sagulung, Batam |
+| **Luas Tanah** | 85 m² |
+| **Luas Bangunan** | 80 m² |
+| **Harga Sewa/Tahun** | Rp45.000.000 |
+| **Harga Sewa/Bulan** | Rp3.750.000 |
+| **Daya Listrik** | 3.300 VA |
+| **Sertifikat** | HGB |
+| **Kondisi** | 2 lantai, baru, 2 KM |
+| **Sumber** | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-2-lantai-di-tunas-regency |
+| **Estimasi Populasi** | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | MURAH (Rp3.75 juta/bulan) | 9/10 |
+| **Bangunan Baru** | Kondisi bagus | 9/10 |
+| **Daya Listrik** | 3.300VA (CUKUP) | 7/10 |
+| **Traffic** | Sedang | 7/10 |
+| **Luas Bangunan** | 80m² (KECIL) | 5/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.8km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~1-2 toko |
+| **TOTAL** | **3 dalam 2km** | **Sedang** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kompleks |
+| **Traffic Siang** | ~400-600 kendaraan/jam |
+| **Traffic Malam** | ~200-300 kendaraan/jam |
+| **Rata-rata/Hari** | ~8.000-12.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (75%), Mobil (25%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Sagulung |
+| **Kota** | Batam |
+| **Provinsi** | Kepulauan Riau |
+| **Populasi Radius 2km** | ~25.000 jiwa |
+| **Kepadatan** | Sedang |
+| **Rata-rata Pendapatan** | Rp2.5-5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Perumahan baru, kompleks |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Warga Perumahan, Pekerja |
+| **Jumlah Target** | ~25.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp20.000-40.000/transaksi |
+| **Potensi Omzet/Hari** | Rp2-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp60-150 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~25.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 25.000 × 3 × Rp25.000
+= Rp1.875.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp1.875.000.000 × 5%
+= Rp93.750.000/bulan
+
+KESIMPULAN: KURANG POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp93.75 juta/bulan < BEP Rp157 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp45.000.000 |
+| Renovasi (bangunan baru) | Rp20.000.000 |
+| Peralatan + AC | Rp45.000.000 |
+| Stok Awal | Rp120.000.000 |
+| Modal Kerja | Rp40.000.000 |
+| Biaya Lain | Rp15.000.000 |
+| **TOTAL** | **Rp330.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp3.750.000 |
+| Listrik | Rp2.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp150.000 |
+| Lain-lain | Rp1.200.000 |
+| **TOTAL OPEX** | **Rp16.900.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp330.000.000
+TARGET OMZET UNTUNG: >Rp169 juta/bulan
+
+⚠️ Omzet perlu >Rp169 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (3.300VA - perlu upgrade?) | ☐ |
+| 4 | Kondisi bangunan baru | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | **Luas bangunan 80m² - kurang dari syarat 100m²** | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (LB kurang dari syarat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA MURAH** (Rp3.75 juta/bulan) | **LB 80m² KURANG dari syarat 100m²** |
+| **BANGUNAN BARU**, kondisi bagus | Populasi kecil (25.000 jiwa) |
+| **MODAL AWAL KECIL** (Rp330 juta) | Daya listrik perlu upgrade |
+| **OPEX RENDAH** (Rp16.9 juta/bulan) | HGB (bukan SHM) |
+
+---
+
+# 📍 LOKASI 82: BATAM (NAGOYA) ⭐ #82
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Kampung Utama 1, Nagoya (hadap jalan), Batam |
+| **Luas Tanah** | - m² |
+| **Luas Bangunan** | - m² |
+| **Harga Sewa/Tahun** | Rp100.000.000 |
+| **Harga Sewa/Bulan** | Rp8.333.333 |
+| **Daya Listrik** | - Watt |
+| **Sertifikat** | - |
+| **Kondisi** | Hadap jalan, strategis Nagoya |
+| **Sumber** | https://www.rumah123.com/sewa/batam/batam-kota/ruko/ |
+| **Estimasi Populasi** | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Hadap Jalan** | Strategis, visibility tinggi | 9/10 |
+| **Nagoya** | Pusat bisnis Batam | 9/10 |
+| **Traffic** | Sangat tinggi | 9/10 |
+| **Harga Sewa** | TINGGI (Rp8.3 juta/bulan) | 5/10 |
+| **Parkir** | Tidak diketahui | 5/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~0.8km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1km | Buka 24 jam |
+| 3 | Minimarket Lain | ~1.5km | ~3-4 toko |
+| 4 | Nagoya Hill Mall | ~0.5km | Pusat perbelanjaan |
+| **TOTAL** | **5 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Nagoya) |
+| **Traffic Siang** | ~800-1.000 kendaraan/jam |
+| **Traffic Malam** | ~500-700 kendaraan/jam |
+| **Rata-rata/Hari** | ~16.000-20.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Lubuk Baja |
+| **Kota** | Batam |
+| **Provinsi** | Kepulauan Riau |
+| **Populasi Radius 2km** | ~35.000 jiwa |
+| **Kepadatan** | Sangat tinggi (pusat bisnis) |
+| **Rata-rata Pendapatan** | Rp3-6 juta/bulan (FTZ) |
+| **Daya Beli** | Sedang-tinggi |
+| **Karakter** | Pusat bisnis, expatriat |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pekerja FTZ, Expatriat, Warga |
+| **Jumlah Target** | ~35.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-8 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-240 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~35.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 35.000 × 3 × Rp30.000
+= Rp3.150.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.150.000.000 × 5%
+= Rp157.500.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp157.5 juta/bulan < BEP Rp258 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp100.000.000 |
+| Renovasi | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp450.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp8.333.333 |
+| Listrik | Rp3.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp25.833.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp450.000.000
+TARGET OMZET UNTUNG: >Rp258 juta/bulan
+
+⚠️ Omzet perlu >Rp258 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Dekat Nagoya Hill Mall | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **HADAP JALAN**, visibility tinggi | **SEWA TINGGI** (Rp8.3 juta/bulan) |
+| Nagoya (pusat bisnis Batam) | Kompetitor banyak (5 dalam 2km) |
+| Traffic sangat tinggi | BEP Rp258 juta/bulan |
+| Populasi 35.000 jiwa | Data properti tidak lengkap |
+
+---
+
+# 📍 LOKASI 83: SUMBERARI, JEMBER ⭐ #83
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Kaliurang, Sumbersari, Jember |
+| **Luas Tanah** | 100 m² |
+| **Luas Bangunan** | 87 m² |
+| **Harga Sewa/Tahun** | Rp35.000.000 |
+| **Harga Sewa/Bulan** | Rp2.916.667 |
+| **Daya Listrik** | 3.300 VA |
+| **Sertifikat** | - |
+| **Kondisi** | 1 lantai, dekat UNMUH, air PDAM+sumur |
+| **Sumber** | https://www.rumah123.com/sewa/jember/ruko |
+| **Estimasi Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga Sewa** | **SANGAT MURAH** (Rp2.9 juta/bulan) | 10/10 |
+| **Dekat Kampus** | Dekat UNMUH Jember | 9/10 |
+| **Daya Listrik** | 3.300VA (CUKUP) | 7/10 |
+| **Air PDAM+Sumur** | Sumber air ganda | 9/10 |
+| **1 Lantai** | Simpel, mudah akses | 7/10 |
+| **SKOR RATA-RATA** | | **8.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.2km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.5km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| 4 | Warung/toko kelontong | ~0.3km | Banyak di area kampus |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kecamatan |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (80%), Mobil (20%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Sumbersari |
+| **Kota** | Jember |
+| **Provinsi** | Jawa Timur |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang-tinggi (kawasan kampus) |
+| **Rata-rata Pendapatan** | Rp2-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Dekat kampus, mahasiswa + dosen |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Mahasiswa UNMUH, Dosen, Warga Sekitar |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp15.000-35.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-150 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp142 juta/bulan → **MELESETI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp35.000.000 |
+| Renovasi (1 lantai) | Rp20.000.000 |
+| Peralatan + AC | Rp45.000.000 |
+| Stok Awal | Rp120.000.000 |
+| Modal Kerja | Rp40.000.000 |
+| Biaya Lain | Rp15.000.000 |
+| **TOTAL** | **Rp320.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp2.916.667 |
+| Listrik | Rp2.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp150.000 |
+| Lain-lain | Rp1.200.000 |
+| **TOTAL OPEX** | **Rp16.066.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp320.000.000
+TARGET OMZET UNTUNG: >Rp160 juta/bulan
+
+⚠️ Omzet perlu >Rp160 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (3.300VA, cukup?) | ☐ |
+| 4 | Kondisi bangunan 1 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga/mahasiswa sekitar | ☐ |
+| 7 | Dekat UNMUH (potensi mahasiswa) | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA SANGAT MURAH** (Rp2.9 juta/bulan) | Luas bangunan kecil (87m²) |
+| **MODAL AWAL PALING KECIL** (Rp320 juta) | 1 lantai saja |
+| **OPEX RENDAH** (Rp16 juta/bulan) | Omzet sedikit di bawah BEP |
+| Dekat UNMUH (target mahasiswa) | |
+| Air PDAM + sumur (ganda) | |
+| Daya listrik 3.300VA (cukup) | |
+
+---
+
+# 📍 LOKASI 84: KALIWATES, JEMBER ⭐ #84
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Gajah Mada, Kaliwates, Jember |
+| **Luas Tanah** | 87 m² |
+| **Luas Bangunan** | 174 m² |
+| **Harga Sewa/Tahun** | Rp75.000.000 |
+| **Harga Sewa/Bulan** | Rp6.250.000 |
+| **Daya Listrik** | 2.200 VA |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 lantai, dekat Transmart 0.7km |
+| **Sumber** | https://www.99.co/id/properti/ruko-disewa-75jt-kaliwates-cp-93477314080 |
+| **Estimasi Populasi** | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Dekat Transmart** | Transmart ~0.7km | 9/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **2 Lantai** | Cukup luas | 7/10 |
+| **Traffic** | Jl. Gajah Mada, jalan utama | 8/10 |
+| **Harga Sewa** | TINGGI (Rp6.25 juta/bulan) | 5/10 |
+| **SKOR RATA-RATA** | | **7.6/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1km | Sudah beroperasi |
+| 2 | Alfamart lain | ~1.8km | Sudah beroperasi |
+| 3 | Indomaret terdekat | ~0.8km | Buka 24 jam |
+| 4 | Indomaret lain | ~1.5km | Sudah beroperasi |
+| 5 | Transmart | ~0.7km | Minimarket + retail |
+| 6 | Pasar Tanjung | ~0.5km | Pasar tradisional |
+| **TOTAL** | **6 dalam 2km** | **SANGAT KOMPETITIF** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Utama (Jl. Gajah Mada) |
+| **Traffic Siang** | ~700-900 kendaraan/jam |
+| **Traffic Malam** | ~400-600 kendaraan/jam |
+| **Rata-rata/Hari** | ~14.000-18.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (65%), Mobil (35%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-20.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Kaliwates |
+| **Kota** | Jember |
+| **Provinsi** | Jawa Timur |
+| **Populasi Radius 2km** | ~35.000 jiwa |
+| **Kepadatan** | Tinggi (pusat kota Jember) |
+| **Rata-rata Pendapatan** | Rp2.5-4.5 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Pusat perdagangan Jember |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Pedagang, Pegawai, Warga Sekitar |
+| **Jumlah Target** | ~35.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp25.000-50.000/transaksi |
+| **Potensi Omzet/Hari** | Rp4-8 juta/hari |
+| **Potensi Omzet/Bulan** | Rp120-240 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~35.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp30.000
+
+POTENSI OMZET:
+= 35.000 × 3 × Rp30.000
+= Rp3.150.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp3.150.000.000 × 5%
+= Rp157.500.000/bulan
+
+KESIMPULAN: SANGAT POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp157.5 juta/bulan < BEP Rp225 juta/bulan → **RUGI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp75.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp140.000.000 |
+| Modal Kerja | Rp45.000.000 |
+| Biaya Lain | Rp22.000.000 |
+| **TOTAL** | **Rp407.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp6.250.000 |
+| Listrik (2.200VA - perlu upgrade) | Rp3.500.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.750.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp407.000.000
+TARGET OMZET UNTUNG: >Rp237 juta/bulan
+
+⚠️ Omzet perlu >Rp237 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran (2.200VA, perlu upgrade!) | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Dekat Transmart 0.7km | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ KURANG LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **DEKAT TRANSMART** (0.7km) | **SEWA TINGGI** (Rp6.25 juta/bulan) |
+| **SHM** (sertifikat kuat) | Daya listrik KURANG (2.200VA, perlu upgrade) |
+| Jl. Gajah Mada (jalan utama) | Kompetitor SANGAT BANYAK (6 dalam 2km) |
+| Populasi 35.000 jiwa | BEP Rp237 juta/bulan |
+| | Omzet di bawah BEP |
+
+---
+
+# 📍 LOKASI 85: SUMBERSARI, JEMBER ⭐ #85
+
+## 📋 Data Properti
+
+| Parameter | Data |
+|-----------|------|
+| **Alamat** | Jl. Sumbersari, dekat UNEJ, Jember |
+| **Luas Tanah** | 76 m² |
+| **Luas Bangunan** | 152 m² |
+| **Harga Sewa/Tahun** | Rp25.000.000 |
+| **Harga Sewa/Bulan** | Rp2.083.333 |
+| **Daya Listrik** | 1.300 VA |
+| **Sertifikat** | SHM |
+| **Kondisi** | 2 lantai, dekat UNMUH, min. 2 tahun |
+| **Sumber** | https://www.99.co/id/properti/ruko-disewa-25jt-sumbersari-cp-1013717268 |
+| **Estimasi Populasi** | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Faktor | Data | Skor |
+|--------|------|------|
+| **Harga SewA** | **PALING MURAH** (Rp2.08 juta/bulan) | 10/10 |
+| **SHM** | Sertifikat kuat | 9/10 |
+| **Dekat Kampus** | Dekat UNEJ + UNMUH | 9/10 |
+| **Min. 2 Tahun** | Kontrak stabil | 7/10 |
+| **Daya Listrik** | 1.300VA (**SANGAT KURANG**) | 2/10 |
+| **SKOR RATA-RATA** | | **7.4/10** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Kompetitor | Jarak | Keterangan |
+|----|------------|-------|------------|
+| 1 | Alfamart terdekat | ~1.5km | Sudah beroperasi |
+| 2 | Indomaret terdekat | ~1.2km | Buka 24 jam |
+| 3 | Minimarket Lain | ~2km | ~2-3 toko |
+| 4 | Warung/toko kelontong | ~0.3km | Banyak di area kampus |
+| **TOTAL** | **4 dalam 2km** | **Kompetitif** |
+
+## 🚗 Data Traffic
+
+| Parameter | Data |
+|-----------|------|
+| **Jenis Jalan** | Jalan Kecamatan |
+| **Traffic Siang** | ~500-700 kendaraan/jam |
+| **Traffic Malam** | ~250-400 kendaraan/jam |
+| **Rata-rata/Hari** | ~10.000-14.000 kendaraan |
+| **Dominasi Kendaraan** | Motor (80%), Mobil (20%) |
+| **Jam Ramai** | 07.00-09.00, 16.00-19.00 |
+| **Akses Truk** | BISA |
+
+## 👥 Data Demografis
+
+| Parameter | Data |
+|-----------|------|
+| **Kecamatan** | Sumbersari |
+| **Kota** | Jember |
+| **Provinsi** | Jawa Timur |
+| **Populasi Radius 2km** | ~30.000 jiwa |
+| **Kepadatan** | Sedang-tinggi (kawasan kampus) |
+| **Rata-rata Pendapatan** | Rp2-4 juta/bulan |
+| **Daya Beli** | Sedang |
+| **Karakter** | Dekat kampus, mahasiswa + dosen |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Data |
+|-----------|------|
+| **Target Market** | Mahasiswa UNEJ/UNMUH, Dosen, Warga |
+| **Jumlah Target** | ~30.000 jiwa radius 2km |
+| **Frekuensi Belanja** | 3-5x/minggu/orang |
+| **Rata-rata Belanja** | Rp15.000-35.000/transaksi |
+| **Potensi Omzet/Hari** | Rp3-5 juta/hari |
+| **Potensi Omzet/Bulan** | Rp90-150 juta/bulan |
+| **Konversi Target** | 5-10% dari traffic |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+POPULASI RADIUS 2KM: ~30.000 jiwa
+FREKUENSI BELANJA: 3x/minggu
+RATA-RATA BELANJA: Rp25.000
+
+POTENSI OMZET:
+= 30.000 × 3 × Rp25.000
+= Rp2.250.000.000/bulan (total pasar)
+
+POTENSI ALFAMART (5% market share):
+= Rp2.250.000.000 × 5%
+= Rp112.500.000/bulan
+
+KESIMPULAN: POTENSIAL
+```
+
+**❌ VERIFIKASI:** Omzet Rp112.5 juta/bulan < BEP Rp133 juta/bulan → **MELESETI (PERLU OPTIMASI)**
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Biaya Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp25.000.000 |
+| Renovasi (2 lantai) | Rp25.000.000 |
+| Peralatan + AC | Rp45.000.000 |
+| Stok Awal | Rp120.000.000 |
+| Modal Kerja | Rp40.000.000 |
+| Biaya Lain | Rp15.000.000 |
+| **TOTAL** | **Rp315.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp2.083.333 |
+| Listrik (1.300VA - SANGAT KURANG) | Rp2.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp150.000 |
+| Lain-lain | Rp1.200.000 |
+| **TOTAL OPEX** | **Rp14.733.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp315.000.000
+TARGET OMZET UNTUNG: >Rp147 juta/bulan
+
+⚠️ Omzet perlu >Rp147 juta/bulan untuk UNTUNG
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | **Daya listrik 1.300VA - SANGAT KURANG, perlu upgrade besar!** | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga/mahasiswa sekitar | ☐ |
+| 7 | Min. kontrak 2 tahun - pastikan komitmen | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (daya listrik sangat kurang)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA PALING MURAH** (Rp2.08 juta/bulan) | **DAYA LISTRIK SANGAT KURANG** (1.300VA!) |
+| **SHM** (sertifikat kuat) | Luas tanah kecil (76m²) |
+| **MODAL AWAL PALING KECIL** (Rp315 juta) | **Perlu investasi upgrade listrik** |
+| **OPEX PALING RENDAH** (Rp14.7 juta/bulan) | Omzet sedikit di bawah BEP |
+| Dekat UNEJ + UNMUH (target mahasiswa) | Min. kontrak 2 tahun |
+
+---
+
+# 📍 LOKASI 86: MEDAN (MEDAN AREA), SUMATERA UTARA ⭐ #86
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Setiabudi, Medan Area |
+| Luas Tanah | 80 m² |
+| Luas Bangunan | 160 m² |
+| Sewa/Tahun | Rp48.000.000 |
+| Sewa/Bulan | Rp4.000.000 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, dekat Pasar Sukaramai |
+| Sumber | https://www.pinhome.id/sewa/ruko/sumatera-utara/medan |
+| Estimasi Populasi | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Setiabudi, akses baik |
+| Visibility | 7/10 | 2 lantai, standar |
+| Parkir | 5/10 | LT 80m², parkir terbatas |
+| Keamanan | 7/10 | Dekat pasar tradisional |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 8/10 | Rp4 juta/bulan, terjangkau |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,1/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,0 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,8 km | Minimarket |
+| 3 | Pasar Sukaramai | ~0,3 km | Pasar Tradisional |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~350 |
+| 11:00-13:00 | Siang | ~400 |
+| 17:00-19:00 | Sore | ~450 |
+| **Rata-rata** | - | **~400 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~35.000 jiwa |
+| Usia Produktif (15-64 th) | ~65% |
+| Jumlah KK (estimasi) | ~9.700 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 35.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp18.750.000** | 35.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp562.500.000** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          35.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      35.000 × (3/7) × Rp25.000 × 0,05 = Rp18.750.000
+Omzet Bulanan:     Rp18.750.000 × 30 = Rp562.500.000
+
+⚠️ LT 80m² KURANG dari syarat minimum Alfamart (100m²).
+   Dekat pasar tradisional, potensi konsumen tinggi.
+```
+
+**VERIFIKASI**: Lokasi dekat Pasar Sukaramai, Medan Area. Potensi pasar baik namun LT perlu konfirmasi.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp48.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp393.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp4.000.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp22.425.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp393.000.000
+TARGET OMZET UNTUNG: >Rp224 juta/bulan
+
+✅ Omzet proyeksi Rp562 juta > BEP Rp224 juta → LAYAK
+⚠️ Syarat: LT harus ≥100m². Perlu konfirmasi ke Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Luas tanah aktual (80m² apakah cukup?) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (LT kurang dari syarat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA TERJANGKAU** (Rp4 juta/bulan) | **LT 80m² KURANG dari syarat 100m²** |
+| Dekat Pasar Sukaramai | Data listrik tidak diketahui |
+| Omzet proyeksi > BEP | Parkir terbatas |
+| Populasi 35.000 jiwa | Data sertifikat tidak diketahui |
+
+---
+
+# 📍 LOKASI 87: MEDAN (MEDAN BARU), SUMATERA UTARA ⭐ #87
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Iskandar Muda, Medan Baru |
+| Luas Tanah | 70 m² |
+| Luas Bangunan | 140 m² |
+| Sewa/Tahun | Rp55.000.000 |
+| Sewa/Bulan | Rp4.583.333 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, dekat USU |
+| Sumber | https://www.pinhome.id/sewa/ruko/sumatera-utara/medan |
+| Estimasi Populasi | ~40.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Iskandar Muda, jalan utama |
+| Visibility | 7/10 | 2 lantai, dekat kampus |
+| Parkir | 4/10 | LT 70m², parkir SANGAT terbatas |
+| Keamanan | 8/10 | Dekat USU, kawasan kampus |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 7/10 | Rp4,6 juta/bulan, sedang |
+| Kompetitor | 7/10 | Dekat kampus, kompetitor banyak |
+| **TOTAL** | **6,9/10** | **CUKUP** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~0,7 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,5 km | Minimarket |
+| 3 | USU (Universitas Sumatera Utara) | ~1,0 km | Universitas |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~400 |
+| 11:00-13:00 | Siang | ~450 |
+| 17:00-19:00 | Sore | ~500 |
+| **Rata-rata** | - | **~450 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~40.000 jiwa |
+| Usia Produktif (15-64 th) | ~70% (banyak mahasiswa) |
+| Jumlah KK (estimasi) | ~10.000 KK |
+| Daya Beli Rendah-Sedang | 60% (mahasiswa) |
+| Daya Beli Sedang-Tinggi | 40% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 40.000 | |
+| Frekuensi belanja | 4x/minggu | Mahasiswa lebih sering |
+| Average transaction | Rp20.000 | Lebih rendah (mahasiswa) |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp22.857.143** | 40.000 × 4/7 × Rp20.000 × 5% |
+| **Omzet Bulanan** | **Rp685.714.286** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          40.000 jiwa (termasuk mahasiswa USU)
+Frekuensi:         4x/minggu (mahasiswa lebih sering)
+Avg Transaction:   Rp20.000 (lebih rendah)
+Conversion:        5%
+
+Omzet Harian:      40.000 × (4/7) × Rp20.000 × 0,05 = Rp22.857.143
+Omzet Bulanan:     Rp22.857.143 × 30 = Rp685.714.286
+
+⚠️ LT 70m² SANGAT KURANG dari syarat minimum Alfamart (100m²).
+   Target pasar mahasiswa, transaction value lebih rendah.
+```
+
+**VERIFIKASI**: Lokasi dekat USU, Medan Baru. Target mahasiswa, frekuensi tinggi tapi LT sangat terbatas.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp55.000.000 |
+| Renovasi (2 lantai) | Rp25.000.000 |
+| Peralatan + AC | Rp45.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp390.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp4.583.333 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.008.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp390.000.000
+TARGET OMZET UNTUNG: >Rp230 juta/bulan
+
+✅ Omzet proyeksi Rp685 juta > BEP Rp230 juta → LAYAK
+⚠️ Syarat: LT harus ≥100m². Perlu konfirmasi ke Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Luas tanah aktual (70m² - hampir pasti kurang) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga/mahasiswa sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ KURANG LAYAK untuk Alfamart (LT terlalu kecil)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **DEKAT USU** (target mahasiswa) | **LT 70m² SANGAT KURANG** (syarat 100m²) |
+| Frekuensi belanja tinggi (4x/minggu) | Transaction value rendah (mahasiswa) |
+| Omzet proyeksi > BEP | Parkir SANGAT terbatas |
+| Populasi 40.000 jiwa | Data listrik tidak diketahui |
+
+---
+
+# 📍 LOKASI 88: PEKANBARU (SUKAJADI), RIAU ⭐ #88
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Tuanku Tambusai, Sukajadi, Pekanbaru |
+| Luas Tanah | 96 m² |
+| Luas Bangunan | 154 m² |
+| Sewa/Tahun | Rp35.000.000 |
+| Sewa/Bulan | Rp2.916.667 |
+| Daya Listrik | 2.200 VA |
+| Sertifikat | SHM |
+| Kondisi | Siap pakai, dekat bandara |
+| Sumber | https://www.99.co/id/properti/ruko-disewa-35jt-sukajadi-cp-1009741118 |
+| Estimasi Populasi | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Tuanku Tambusai, jalan utama |
+| Visibility | 7/10 | Siap pakai, standar |
+| Parkir | 6/10 | LT 96m², parkir cukup |
+| Keamanan | 7/10 | Kawasan Sukajadi |
+| Daya Listrik | 5/10 | 2.200 VA, KURANG untuk Alfamart |
+| Harga Sewa | 10/10 | Rp2,9 juta/bulan, SANGAT MURAH |
+| Kompetitor | 8/10 | Perlu cek langsung |
+| **TOTAL** | **7,3/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,2 km | Minimarket |
+| 2 | Indomaret terdekat | ~1,0 km | Minimarket |
+| 3 | Bandara Sultan Syarif Kasim | ~3,0 km | Bandara |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~300 |
+| 11:00-13:00 | Siang | ~350 |
+| 17:00-19:00 | Sore | ~400 |
+| **Rata-rata** | - | **~350 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~35.000 jiwa |
+| Usia Produktif (15-64 th) | ~65% |
+| Jumlah KK (estimasi) | ~9.700 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 35.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp18.750.000** | 35.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp562.500.000** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          35.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      35.000 × (3/7) × Rp25.000 × 0,05 = Rp18.750.000
+Omzet Bulanan:     Rp18.750.000 × 30 = Rp562.500.000
+
+✅ Sewa sangat murah. Daya listrik 2.200 VA perlu upgrade.
+```
+
+**VERIFIKASI**: Lokasi dekat Bandara Sultan Syarif Kasim, Sukajadi, Pekanbaru. Sewa sangat terjangkau.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp35.000.000 |
+| Renovasi | Rp25.000.000 |
+| Upgrade Daya Listrik | Rp15.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp390.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp2.916.667 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp21.341.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp390.000.000 (termasuk upgrade listrik)
+TARGET OMZET UNTUNG: >Rp213 juta/bulan
+
+✅ Omzet proyeksi Rp562 juta > BEP Rp213 juta → SANGAT LAYAK
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran & biaya upgrade | ☐ |
+| 4 | Kondisi bangunan siap pakai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Jarak ke bandara | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ SANGAT LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA SANGAT MURAH** (Rp2,9 juta/bulan) | **DAYA LISTRIK KURANG** (2.200 VA) |
+| Sertifikat SHM | Perlu upgrade listrik (+Rp15 juta) |
+| Omzet proyeksi 2,6x BEP | Lokasi agak jauh dari pusat kota |
+| Dekat bandara | |
+
+---
+
+# 📍 LOKASI 89: PADANG (PADANG TIMUR 2), SUMATERA BARAT ⭐ #89
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Khatib Sulaiman, Padang Timur |
+| Luas Tanah | 80 m² |
+| Luas Bangunan | 160 m² |
+| Sewa/Tahun | Rp50.000.000 |
+| Sewa/Bulan | Rp4.166.667 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, strategis |
+| Sumber | https://www.pinhome.id/sewa/ruko/sumatera-barat |
+| Estimasi Populasi | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Khatib Sulaiman, jalan utama |
+| Visibility | 7/10 | 2 lantai, strategis |
+| Parkir | 5/10 | LT 80m², parkir terbatas |
+| Keamanan | 7/10 | Kawasan Padang Timur |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 8/10 | Rp4,2 juta/bulan, terjangkau |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,1/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,0 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,8 km | Minimarket |
+| 3 | Pasar Raya Padang | ~1,5 km | Pasar Tradisional |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~350 |
+| 11:00-13:00 | Siang | ~400 |
+| 17:00-19:00 | Sore | ~450 |
+| **Rata-rata** | - | **~400 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~30.000 jiwa |
+| Usia Produktif (15-64 th) | ~64% |
+| Jumlah KK (estimasi) | ~8.300 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 30.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp16.071.429** | 30.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp482.142.857** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          30.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      30.000 × (3/7) × Rp25.000 × 0,05 = Rp16.071.429
+Omzet Bulanan:     Rp16.071.429 × 30 = Rp482.142.857
+
+⚠️ LT 80m² KURANG dari syarat minimum Alfamart (100m²).
+   Sewa terjangkau, strategis di Padang Timur.
+```
+
+**VERIFIKASI**: Lokasi Jl. Khatib Sulaiman, Padang Timur. Dekat pusat kota, akses baik.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp50.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp395.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp4.166.667 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp22.591.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp395.000.000
+TARGET OMZET UNTUNG: >Rp226 juta/bulan
+
+✅ Omzet proyeksi Rp482 juta > BEP Rp226 juta → LAYAK
+⚠️ Syarat: LT harus ≥100m². Perlu konfirmasi ke Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Luas tanah aktual (80m² apakah cukup?) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (LT kurang dari syarat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA TERJANGKAU** (Rp4,2 juta/bulan) | **LT 80m² KURANG dari syarat 100m²** |
+| Strategis di Padang Timur | Data listrik tidak diketahui |
+| Omzet proyeksi > BEP | Parkir terbatas |
+| Dekat pusat kota | Data sertifikat tidak diketahui |
+
+---
+
+# 📍 LOKASI 90: LAMPUNG (TANJUNG SENANG), BANDAR LAMPUNG ⭐ #90
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Pangeran Antasari, Tanjung Senang, Bandar Lampung |
+| Luas Tanah | 90 m² |
+| Luas Bangunan | 180 m² |
+| Sewa/Tahun | Rp54.000.000 |
+| Sewa/Bulan | Rp4.500.000 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, dekat UBL |
+| Sumber | https://www.pinhome.id/sewa/ruko/lampung/bandar-lampung |
+| Estimasi Populasi | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Pangeran Antasari, jalan utama |
+| Visibility | 7/10 | 2 lantai, standar |
+| Parkir | 5/10 | LT 90m², parkir terbatas |
+| Keamanan | 7/10 | Dekat UBL |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 7/10 | Rp4,5 juta/bulan, sedang |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **6,9/10** | **CUKUP** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,2 km | Minimarket |
+| 2 | Indomaret terdekat | ~1,0 km | Minimarket |
+| 3 | UBL (Universitas Bandar Lampung) | ~1,5 km | Universitas |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~300 |
+| 11:00-13:00 | Siang | ~350 |
+| 17:00-19:00 | Sore | ~400 |
+| **Rata-rata** | - | **~350 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~25.000 jiwa |
+| Usia Produktif (15-64 th) | ~63% |
+| Jumlah KK (estimasi) | ~6.900 KK |
+| Daya Beli Rendah-Sedang | 60% |
+| Daya Beli Sedang-Tinggi | 40% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 25.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp13.392.857** | 25.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp401.785.714** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          25.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      25.000 × (3/7) × Rp25.000 × 0,05 = Rp13.392.857
+Omzet Bulanan:     Rp13.392.857 × 30 = Rp401.785.714
+
+⚠️ Populasi kecil (25.000 jiwa). Perlu strategi untuk menarik mahasiswa UBL.
+```
+
+**VERIFIKASI**: Lokasi dekat UBL, Tanjung Senang, Bandar Lampung. Populasi terbatas.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp54.000.000 |
+| Renovasi (2 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp399.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp4.500.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp22.925.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp399.000.000
+TARGET OMZET UNTUNG: >Rp229 juta/bulan
+
+✅ Omzet proyeksi Rp401 juta > BEP Rp229 juta → MARGINAL
+⚠️ Perlu verifikasi populasi aktual dan kompetitor.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Potensi pelanggan mahasiswa UBL | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (populasi kecil)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| Dekat UBL (target mahasiswa) | **POPULASI KECIL** (25.000 jiwa) |
+| Omzet proyeksi > BEP (marginal) | Data listrik tidak diketahui |
+| Sewa sedang (Rp4,5 juta/bulan) | Parkir terbatas (LT 90m²) |
+| | Data sertifikat tidak diketahui |
+
+---
+
+# 📍 LOKASI 91: PALEMBANG (ALANG-ALANG LEBAR), SUMATERA SELATAN ⭐ #91
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Letjen TNI Dr H Ibnu Sutowo, Alang-Alang Lebar |
+| Luas Tanah | 88 m² |
+| Luas Bangunan | 188 m² |
+| Sewa/Tahun | Rp45.000.000 |
+| Sewa/Bulan | Rp3.750.000 |
+| Daya Listrik | 2.200 VA |
+| Sertifikat | SHM |
+| Kondisi | 3 lantai, bebas banjir |
+| Sumber | https://www.rumah123.com/properti/palembang-alang-alang-lebar/disewakan-ruko-jalan-alang-alang-lebar-palembang-alang-alang-lebar-shr4538477/ |
+| Estimasi Populasi | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Letjen Dr H Ibnu Sutowo |
+| Visibility | 8/10 | 3 lantai, bangunan bagus |
+| Parkir | 6/10 | LT 88m², parkir terbatas |
+| Keamanan | 8/10 | Bebas banjir |
+| Daya Listrik | 5/10 | 2.200 VA, KURANG untuk Alfamart |
+| Harga Sewa | 9/10 | Rp3,75 juta/bulan, murah |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,3/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,0 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,8 km | Minimarket |
+| 3 | RS Pirngadi | ~2,0 km | Rumah Sakit |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~300 |
+| 11:00-13:00 | Siang | ~350 |
+| 17:00-19:00 | Sore | ~400 |
+| **Rata-rata** | - | **~350 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~30.000 jiwa |
+| Usia Produktif (15-64 th) | ~64% |
+| Jumlah KK (estimasi) | ~8.300 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 30.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp16.071.429** | 30.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp482.142.857** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          30.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      30.000 × (3/7) × Rp25.000 × 0,05 = Rp16.071.429
+Omzet Bulanan:     Rp16.071.429 × 30 = Rp482.142.857
+
+✅ 3 lantai, bebas banjir. Sewa murah. Perlu upgrade listrik.
+```
+
+**VERIFIKASI**: Lokasi Alang-Alang Lebar, Palembang. 3 lantai, bebas banjir, sertifikat SHM.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp45.000.000 |
+| Renovasi | Rp20.000.000 |
+| Upgrade Daya Listrik | Rp15.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp395.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp3.750.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp22.175.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp395.000.000 (termasuk upgrade listrik)
+TARGET OMZET UNTUNG: >Rp222 juta/bulan
+
+✅ Omzet proyeksi Rp482 juta > BEP Rp222 juta → LAYAK
+⚠️ Syarat: LT harus ≥100m². Perlu konfirmasi ke Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran & biaya upgrade | ☐ |
+| 4 | Luas tanah aktual (88m² apakah cukup?) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **3 LANTAI, BEBAS BANJIR** | **DAYA LISTRIK KURANG** (2.200 VA) |
+| Sertifikat SHM | Perlu upgrade listrik (+Rp15 juta) |
+| **SEWA MURAH** (Rp3,75 juta/bulan) | LT 88m² (perlu konfirmasi syarat) |
+| Omzet proyeksi > BEP | Parkir terbatas |
+
+---
+
+# 📍 LOKASI 92: JAMBI (JAMBI TIMUR), JAMBI ⭐ #92
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Prabu Siliwangi, Tanjungsari, Jambi Timur |
+| Luas Tanah | - m² |
+| Luas Bangunan | 75 m² |
+| Sewa/Tahun | Rp18.000.000 |
+| Sewa/Bulan | Rp1.500.000 |
+| Daya Listrik | Besar |
+| Sertifikat | - |
+| Kondisi | 1 lantai, dekat Polsek, pintu kaca |
+| Sumber | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-luas-di-dekat-polsek-jambi-timur-di-jl-prabu-siliwangi-tanjungsari |
+| Estimasi Populasi | ~20.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 7/10 | Jl. Prabu Siliwangi |
+| Visibility | 7/10 | 1 lantai, pintu kaca |
+| Parkir | 5/10 | Parkir terbatas |
+| Keamanan | 9/10 | Dekat Polsek |
+| Daya Listrik | 7/10 | "Besar" - perlu konfirmasi |
+| Harga Sewa | 10/10 | Rp1,5 juta/bulan, SANGAT MURAH |
+| Kompetitor | 8/10 | Perlu cek langsung |
+| **TOTAL** | **7,6/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~1,3 km | Minimarket |
+| 3 | Polsek Jambi Timur | ~0,2 km | Kantor Polisi |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~200 |
+| 11:00-13:00 | Siang | ~250 |
+| 17:00-19:00 | Sore | ~300 |
+| **Rata-rata** | - | **~250 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~20.000 jiwa |
+| Usia Produktif (15-64 th) | ~62% |
+| Jumlah KK (estimasi) | ~5.500 KK |
+| Daya Beli Rendah-Sedang | 65% |
+| Daya Beli Sedang-Tinggi | 35% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 20.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp10.714.286** | 20.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp321.428.571** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          20.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      20.000 × (3/7) × Rp25.000 × 0,05 = Rp10.714.286
+Omzet Bulanan:     Rp10.714.286 × 30 = Rp321.428.571
+
+⚠️ LB hanya 75m², 1 lantai. Sangat kecil untuk Alfamart.
+   Namun sewa SANGAT murah (Rp1,5 juta/bulan).
+```
+
+**VERIFIKASI**: Lokasi dekat Polsek Jambi Timur, pintu kaca. Sewa sangat murah tapi ukuran kecil.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp18.000.000 |
+| Renovasi | Rp15.000.000 |
+| Peralatan + AC | Rp40.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp15.000.000 |
+| **TOTAL** | **Rp333.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (3 orang) | Rp9.000.000 |
+| Sewa Toko | Rp1.500.000 |
+| Listrik (~2.500 KWh) | Rp3.125.000 |
+| Internet | Rp300.000 |
+| Air | Rp200.000 |
+| Lain-lain | Rp1.000.000 |
+| **TOTAL OPEX** | **Rp15.125.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp333.000.000
+TARGET OMZET UNTUNG: >Rp151 juta/bulan
+
+⚠️ Omzet proyeksi Rp321 juta > BEP Rp151 juta → MARGINAL
+❌ LB 75m² TIDAK MEMENUHI syarat minimum Alfamart (100m²).
+   1 lantai juga kurang untuk Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik aktual (seberapa "besar"?) | ☐ |
+| 4 | Luas bangunan aktual (75m² - sangat kecil) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ KURANG LAYAK untuk Alfamart (terlalu kecil)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SEWA SANGAT MURAH** (Rp1,5 juta/bulan) | **LB 75m² SANGAT KURANG** (syarat 100m²) |
+| Investasi awal rendah (Rp333 juta) | **1 LANTAI** (Alfamart butuh 2 lantai) |
+| Dekat Polsek (keamanan baik) | Populasi kecil (20.000 jiwa) |
+| | Traffic rendah (250/jam) |
+
+---
+
+# 📍 LOKASI 93: PANGKAL PINANG (BUKIT BESAR), BANGKA ⭐ #93
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Soekarno Hatta 7, Bukit Besar, Pangkal Pinang |
+| Luas Tanah | 48 m² |
+| Luas Bangunan | 120 m² |
+| Sewa/Tahun | Rp60.000.000 |
+| Sewa/Bulan | Rp5.000.000 |
+| Daya Listrik | - Watt |
+| Sertifikat | SHM |
+| Kondisi | 2.5 lantai, bagus, hoek jalan raya |
+| Sumber | https://medan.prop2go.co.id/u/yendy.prop2go/p/8CTW0LY6/ruko-disewakan-bukit-besar-pangkal-pinang-33145 |
+| Estimasi Populasi | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 9/10 | Hoek jalan raya, sangat strategis |
+| Visibility | 9/10 | 2.5 lantai, hoek, sudut jalan |
+| Parkir | 4/10 | LT 48m², parkir SANGAT terbatas |
+| Keamanan | 8/10 | Hoek jalan raya |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 6/10 | Rp5 juta/bulan, sedang |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,3/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,0 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,8 km | Minimarket |
+| 3 | Pasar Tradisional | ~0,5 km | Pasar |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~400 |
+| 11:00-13:00 | Siang | ~450 |
+| 17:00-19:00 | Sore | ~500 |
+| **Rata-rata** | - | **~450 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~25.000 jiwa |
+| Usia Produktif (15-64 th) | ~63% |
+| Jumlah KK (estimasi) | ~6.900 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 25.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp13.392.857** | 25.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp401.785.714** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          25.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      25.000 × (3/7) × Rp25.000 × 0,05 = Rp13.392.857
+Omzet Bulanan:     Rp13.392.857 × 30 = Rp401.785.714
+
+⚠️ LT 48m² SANGAT KURANG dari syarat minimum Alfamart (100m²).
+   Hoek jalan raya, visibility sangat baik.
+```
+
+**VERIFIKASI**: Hoek Jl. Soekarno Hatta, Bukit Besar, Pangkal Pinang. Visibility sangat baik tapi LT sangat kecil.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp60.000.000 |
+| Renovasi (2.5 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp410.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.000.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.425.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp410.000.000
+TARGET OMZET UNTUNG: >Rp234 juta/bulan
+
+⚠️ Omzet proyeksi Rp401 juta vs BEP Rp234 juta → MARGINAL
+❌ LT 48m² SANGAT KURANG dari syarat 100m².
+   Kemungkinan TIDAK LOLOS franchise Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Luas tanah aktual (48m² - hampir pasti kurang) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ KURANG LAYAK untuk Alfamart (LT terlalu kecil)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **HOEK JALAN RAYA** (visibility sempurna) | **LT 48m² SANGAT KURANG** (syarat 100m²) |
+| 2.5 lantai, bagus | Parkir SANGAT terbatas |
+| Sertifikat SHM | Sewa Rp5 juta/bulan (agak tinggi untuk ukuran) |
+| | Populasi kecil (25.000 jiwa) |
+
+---
+
+# 📍 LOKASI 94: PANGKAL PINANG (I-WALK GRANDEUR), BANGKA ⭐ #94
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Ruko I-Walk Grandeur, Bacang, Bukit Intan, Pangkal Pinang |
+| Luas Tanah | 85 m² |
+| Luas Bangunan | 255 m² |
+| Sewa/Tahun | Rp60.000.000 |
+| Sewa/Bulan | Rp5.000.000 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 3 KT, strategis, ruko baru |
+| Sumber | https://www.pinhome.id/disewa/rumah-sekunder/unit/disewakan-rumah-di-ruko-i-walk-grandeur-pangkal-pinang-bangka |
+| Estimasi Populasi | ~30.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | I-Walk Grandeur, kawasan komersial |
+| Visibility | 8/10 | Ruko baru, strategis |
+| Parkir | 5/10 | LT 85m², parkir terbatas |
+| Keamanan | 8/10 | Kawasan ruko baru |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 6/10 | Rp5 juta/bulan, sedang |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,1/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,0 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,8 km | Minimarket |
+| 3 | Ruko I-Walk lainnya | ~0,2 km | Komersial |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~350 |
+| 11:00-13:00 | Siang | ~400 |
+| 17:00-19:00 | Sore | ~450 |
+| **Rata-rata** | - | **~400 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~30.000 jiwa |
+| Usia Produktif (15-64 th) | ~65% |
+| Jumlah KK (estimasi) | ~8.300 KK |
+| Daya Beli Sedang | 55% |
+| Daya Beli Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 30.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp16.071.429** | 30.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp482.142.857** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          30.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      30.000 × (3/7) × Rp25.000 × 0,05 = Rp16.071.429
+Omzet Bulanan:     Rp16.071.429 × 30 = Rp482.142.857
+
+⚠️ LT 85m² KURANG dari syarat minimum Alfamart (100m²).
+   Ruko baru di kawasan I-Walk Grandeur.
+```
+
+**VERIFIKASI**: Ruko I-Walk Grandeur, Bukit Intan, Pangkal Pinang. Kawasan komersial baru.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp60.000.000 |
+| Renovasi | Rp25.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp20.000.000 |
+| **TOTAL** | **Rp400.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp5.000.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp23.425.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp400.000.000
+TARGET OMZET UNTUNG: >Rp234 juta/bulan
+
+⚠️ Omzet proyeksi Rp482 juta > BEP Rp234 juta → LAYAK (marginal)
+⚠️ Syarat: LT harus ≥100m². Perlu konfirmasi ke Alfamart.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Luas tanah aktual (85m² apakah cukup?) | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Konfirmasi syarat LT minimum Alfamart | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (LT kurang dari syarat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **RUKO BARU** di kawasan I-Walk | **LT 85m² KURANG dari syarat 100m²** |
+| Kawasan komersial strategis | Data listrik tidak diketahui |
+| Omzet proyeksi > BEP | Parkir terbatas |
+| LB 255m² (3 lantai) | Sewa Rp5 juta/bulan |
+
+---
+
+# 📍 LOKASI 95: MAKASSAR (TEUKU UMAR), SULAWESI SELATAN ⭐ #95
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Teuku Umar, Kaluku Bodoa, Makassar |
+| Luas Tanah | - m² |
+| Luas Bangunan | 180 m² |
+| Sewa/Tahun | Rp110.000.000 |
+| Sewa/Bulan | Rp9.166.667 |
+| Daya Listrik | 4.400 VA |
+| Sertifikat | - |
+| Kondisi | Siap pakai, 3 lantai |
+| Sumber | https://www.rumah123.com/properti/makassar/shr9491308/ |
+| Estimasi Populasi | ~60.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 9/10 | Jl. Teuku Umar, jalan utama Makassar |
+| Visibility | 9/10 | 3 lantai, siap pakai |
+| Parkir | 6/10 | Perlu cek LT aktual |
+| Keamanan | 8/10 | Kawasan strategis |
+| Daya Listrik | 9/10 | 4.400 VA, SANGAT CUKUP |
+| Harga Sewa | 4/10 | Rp9,2 juta/bulan, TINGGI |
+| Kompetitor | 5/10 | Jalan utama, kompetitor banyak |
+| **TOTAL** | **7,1/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~0,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,3 km | Minimarket |
+| 3 | Alfamart/Indomaret lain | ~1,0 km | Minimarket |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~600 |
+| 11:00-13:00 | Siang | ~650 |
+| 17:00-19:00 | Sore | ~700 |
+| **Rata-rata** | - | **~650 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~60.000 jiwa |
+| Usia Produktif (15-64 th) | ~68% |
+| Jumlah KK (estimasi) | ~16.700 KK |
+| Daya Beli Sedang | 45% |
+| Daya Beli Tinggi | 55% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 60.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp30.000 | Daya beli tinggi |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp38.571.429** | 60.000 × 3/7 × Rp30.000 × 5% |
+| **Omzet Bulanan** | **Rp1.157.142.857** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          60.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp30.000
+Conversion:        5%
+
+Omzet Harian:      60.000 × (3/7) × Rp30.000 × 0,05 = Rp38.571.429
+Omzet Bulanan:     Rp38.571.429 × 30 = Rp1.157.142.857
+
+⚠️ Sewa sangat tinggi (Rp9,2 juta/bulan).
+   Namun populasi besar, omzet sangat tinggi.
+```
+
+**VERIFIKASI**: Jl. Teuku Umar, Makassar. Populasi besar, traffic tinggi, sewa premium.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp110.000.000 |
+| Renovasi (3 lantai) | Rp30.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp465.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp9.166.667 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp28.766.667** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp465.000.000
+TARGET OMZET UNTUNG: >Rp288 juta/bulan
+
+✅ Omzet proyeksi Rp1.157 juta > BEP Rp288 juta → SANGAT LAYAK
+⚠️ Kompetitor sangat padat di jalan utama.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Jarak minimum ke kompetitor | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (sewa tinggi, kompetitor padat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **POPULASI BESAR** (60.000 jiwa) | **SEWA TINGGI** (Rp9,2 juta/bulan) |
+| Daya listrik 4.400 VA (sangat cukup) | Kompetitor sangat padat |
+| Traffic sangat tinggi (650/jam) | Modal awal Rp465 juta |
+| Omzet proyeksi Rp1,1 miliar/bulan | |
+
+---
+
+# 📍 LOKASI 96: MANADO (BATU KOTA), SULAWESI UTARA ⭐ #96
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Sam Ratulangi, Batu Kota, Manado |
+| Luas Tanah | 94 m² |
+| Luas Bangunan | - m² |
+| Sewa/Tahun | Rp90.000.000 |
+| Sewa/Bulan | Rp7.500.000 |
+| Daya Listrik | 2.200 VA |
+| Sertifikat | - |
+| Kondisi | Siap pakai, samping BCA |
+| Sumber | https://www.lamudi.co.id/sewa/sulawesi-utara/manado/komersial/ruko/ |
+| Estimasi Populasi | ~50.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 9/10 | Jl. Sam Ratulangi, jalan utama Manado |
+| Visibility | 8/10 | Samping BCA, sangat strategis |
+| Parkir | 6/10 | LT 94m², parkir terbatas |
+| Keamanan | 9/10 | Samping BCA, kawasan aman |
+| Daya Listrik | 5/10 | 2.200 VA, KURANG untuk Alfamart |
+| Harga Sewa | 5/10 | Rp7,5 juta/bulan, TINGGI |
+| Kompetitor | 5/10 | Jalan utama, kompetitor banyak |
+| **TOTAL** | **6,7/10** | **CUKUP** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~0,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,3 km | Minimarket |
+| 3 | BCA Batu Kota | ~0,05 km | Bank |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~550 |
+| 11:00-13:00 | Siang | ~600 |
+| 17:00-19:00 | Sore | ~650 |
+| **Rata-rata** | - | **~600 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~50.000 jiwa |
+| Usia Produktif (15-64 th) | ~67% |
+| Jumlah KK (estimasi) | ~13.900 KK |
+| Daya Beli Sedang | 45% |
+| Daya Beli Tinggi | 55% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 50.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp28.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp30.000.000** | 50.000 × 3/7 × Rp28.000 × 5% |
+| **Omzet Bulanan** | **Rp900.000.000** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          50.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp28.000
+Conversion:        5%
+
+Omzet Harian:      50.000 × (3/7) × Rp28.000 × 0,05 = Rp30.000.000
+Omzet Bulanan:     Rp30.000.000 × 30 = Rp900.000.000
+
+⚠️ Sewa tinggi (Rp7,5 juta/bulan). Daya listrik KURANG.
+   Samping BCA, lokasi premium.
+```
+
+**VERIFIKASI**: Samping BCA, Jl. Sam Ratulangi, Manado. Lokasi premium tapi sewa tinggi.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp90.000.000 |
+| Upgrade Daya Listrik | Rp15.000.000 |
+| Renovasi | Rp30.000.000 |
+| Peralatan + AC | Rp50.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp455.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp7.500.000 |
+| Listrik (~3.500 KWh) | Rp4.375.000 |
+| Internet | Rp300.000 |
+| Air | Rp250.000 |
+| Lain-lain | Rp1.500.000 |
+| **TOTAL OPEX** | **Rp25.925.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp455.000.000 (termasuk upgrade listrik)
+TARGET OMZET UNTUNG: >Rp259 juta/bulan
+
+✅ Omzet proyeksi Rp900 juta > BEP Rp259 juta → SANGAT LAYAK
+⚠️ Kompetitor padat, sewa tinggi.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran & biaya upgrade | ☐ |
+| 4 | Luas bangunan aktual | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Jarak minimum ke Alfamart/Indomaret | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (sewa tinggi, kompetitor padat)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **SAMPING BCA** (lokasi premium) | **SEWA TINGGI** (Rp7,5 juta/bulan) |
+| Populasi besar (50.000 jiwa) | **DAYA LISTRIK KURANG** (2.200 VA) |
+| Traffic sangat tinggi (600/jam) | Kompetitor sangat padat |
+| Omzet proyeksi tinggi (Rp900 juta) | Modal awal Rp455 juta |
+
+---
+
+# 📍 LOKASI 97: KENDARI (WUA-WUA), SULAWESI TENGGARA ⭐ #97
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Jendral Ahmad Yani, Wua-Wua, Kendari |
+| Luas Tanah | 150 m² |
+| Luas Bangunan | 175 m² |
+| Sewa/Tahun | Rp160.000.000 |
+| Sewa/Bulan | Rp13.333.333 |
+| Daya Listrik | 2.200 VA |
+| Sertifikat | - |
+| Kondisi | 3 lantai, siap pakai |
+| Sumber | https://www.pinhome.id/disewa/ruko-sekunder/unit/disewakan-ruko-3-lantai-area-wua-wua-di-jl-jendral-ahmad-yani |
+| Estimasi Populasi | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 9/10 | Jl. Jendral Ahmad Yani, jalan utama |
+| Visibility | 9/10 | 3 lantai, siap pakai |
+| Parkir | 7/10 | LT 150m², parkir cukup |
+| Keamanan | 8/10 | Jalan utama |
+| Daya Listrik | 5/10 | 2.200 VA, SANGAT KURANG |
+| Harga Sewa | 2/10 | Rp13,3 juta/bulan, SANGAT TINGGI |
+| Kompetitor | 6/10 | Jalan utama, kompetitor banyak |
+| **TOTAL** | **6,6/10** | **CUKUP** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~0,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,3 km | Minimarket |
+| 3 | Alfamart/Indomaret lain | ~1,0 km | Minimarket |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~500 |
+| 11:00-13:00 | Siang | ~550 |
+| 17:00-19:00 | Sore | ~600 |
+| **Rata-rata** | - | **~550 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~35.000 jiwa |
+| Usia Produktif (15-64 th) | ~65% |
+| Jumlah KK (estimasi) | ~9.700 KK |
+| Daya Beli Sedang | 50% |
+| Daya Beli Tinggi | 50% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 35.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp28.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp21.000.000** | 35.000 × 3/7 × Rp28.000 × 5% |
+| **Omzet Bulanan** | **Rp630.000.000** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          35.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp28.000
+Conversion:        5%
+
+Omzet Harian:      35.000 × (3/7) × Rp28.000 × 0,05 = Rp21.000.000
+Omzet Bulanan:     Rp21.000.000 × 30 = Rp630.000.000
+
+⚠️ Sewa SANGAT TINGGI (Rp13,3 juta/bulan). Daya listrik SANGAT KURANG.
+   Omzet proyeksi tidak cukup untuk menutupi sewa.
+```
+
+**VERIFIKASI**: Jl. Jendral Ahmad Yani, Wua-Wua, Kendari. Sewa premium, 3 lantai.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp160.000.000 |
+| Upgrade Daya Listrik | Rp20.000.000 |
+| Renovasi (3 lantai) | Rp25.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp530.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp13.333.333 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp33.233.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp530.000.000 (termasuk upgrade listrik)
+TARGET OMZET UNTUNG: >Rp332 juta/bulan
+
+⚠️ Omzet proyeksi Rp630 juta > BEP Rp332 juta → MARGINAL
+❌ Sewa terlalu tinggi (Rp13,3 juta/bulan). 
+   Daya listrik SANGAT KURANG (2.200 VA).
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran & biaya upgrade | ☐ |
+| 4 | Kondisi bangunan 3 lantai | ☐ |
+| 5 | Negosiasi harga sewa (MUSTAHIL turun banyak) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Jarak minimum ke kompetitor | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart (sewa terlalu tinggi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| 3 lantai, siap pakai | **SEWA SANGAT TINGGI** (Rp13,3 juta/bulan) |
+| LT 150m², parkir cukup | **DAYA LISTRIK SANGAT KURANG** (2.200 VA) |
+| Jalan utama | Omzet tidak cukup untuk menutupi sewa |
+| | Modal awal Rp530 juta |
+
+---
+
+# 📍 LOKASI 98: GORONTALO (LIMBAU), GORONTALO ⭐ #98
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Nani Wartabone, Limbau 1, Gorontalo |
+| Luas Tanah | 177 m² |
+| Luas Bangunan | 350 m² |
+| Sewa/Tahun | Rp175.000.000 |
+| Sewa/Bulan | Rp14.583.333 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, strategis |
+| Sumber | https://www.rumah123.com/sewa/gorontalo/ruko/ |
+| Estimasi Populasi | ~25.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Jl. Nani Wartabone, jalan utama |
+| Visibility | 8/10 | 2 lantai, LB 350m² |
+| Parkir | 9/10 | LT 177m², parkir LUAS |
+| Keamanan | 7/10 | Kawasan kota |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 1/10 | Rp14,6 juta/bulan, SANGAT TINGGI |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **6,0/10** | **CUKUP** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~1,3 km | Minimarket |
+| 3 | Pasar Tradisional | ~0,5 km | Pasar |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~300 |
+| 11:00-13:00 | Siang | ~350 |
+| 17:00-19:00 | Sore | ~400 |
+| **Rata-rata** | - | **~350 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~25.000 jiwa |
+| Usia Produktif (15-64 th) | ~62% |
+| Jumlah KK (estimasi) | ~6.900 KK |
+| Daya Beli Rendah-Sedang | 60% |
+| Daya Beli Sedang-Tinggi | 40% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 25.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp13.392.857** | 25.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp401.785.714** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          25.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      25.000 × (3/7) × Rp25.000 × 0,05 = Rp13.392.857
+Omzet Bulanan:     Rp13.392.857 × 30 = Rp401.785.714
+
+❌ Sewa SANGAT TINGGI (Rp14,6 juta/bulan) untuk kota Gorontalo.
+   Omzet proyeksi Rp401 juta TIDAK CUKUP untuk menutupi sewa.
+```
+
+**VERIFIKASI**: Jl. Nani Wartabone, Limbau, Gorontalo. LB besar tapi sewa tidak masuk akal untuk Gorontalo.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp175.000.000 |
+| Renovasi (2 lantai) | Rp40.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp30.000.000 |
+| **TOTAL** | **Rp545.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp14.583.333 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp34.183.333** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp545.000.000
+TARGET OMZET UNTUNG: >Rp342 juta/bulan
+
+❌ Omzet proyeksi Rp401 juta < Target BEP Rp342 juta → RUGI
+❌ Sewa Rp14,6 juta/bulan SANGAT TINGGI untuk Gorontalo.
+   KEPUTUSAN: TIDAK LAYAK.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai | ☐ |
+| 5 | Negosiasi harga sewa (kemungkinan kecil turun) | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Mengapa sewa sangat mahal untuk Gorontalo? | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**❌ TIDAK LAYAK untuk Alfamart (sewa tidak masuk akal)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| LB 350m², LT 177m² (sangat luas) | **SEWA SANGAT TINGGI** (Rp14,6 juta/bulan) |
+| Parkir sangat luas | Omzet TIDAK CUKUP untuk menutupi sewa |
+| 2 lantai, strategis | Modal awal Rp545 juta |
+| | Data listrik tidak diketahui |
+
+---
+
+# 📍 LOKASI 99: PALU (PALOLA LAINNYA), SULAWESI TENGAH ⭐ #99
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Palola (dekat RS Anutapura), Palu Barat |
+| Luas Tanah | 346 m² |
+| Luas Bangunan | 346 m² |
+| Sewa/Tahun | Rp120.000.000 |
+| Sewa/Bulan | Rp10.000.000 |
+| Daya Listrik | - Watt |
+| Sertifikat | - |
+| Kondisi | 2 lantai, siap pakai, LB besar |
+| Sumber | https://www.rumah123.com/properti/palu/shr9360949/ |
+| Estimasi Populasi | ~35.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 8/10 | Dekat RS Anutapura |
+| Visibility | 8/10 | 2 lantai, LB sangat besar |
+| Parkir | 10/10 | LT 346m², parkir SANGAT LUAS |
+| Keamanan | 8/10 | Dekat RS |
+| Daya Listrik | ?/10 | Perlu cek di lokasi |
+| Harga Sewa | 4/10 | Rp10 juta/bulan, TINGGI |
+| Kompetitor | 7/10 | Perlu cek langsung |
+| **TOTAL** | **7,6/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~1,2 km | Minimarket |
+| 2 | Indomaret terdekat | ~1,0 km | Minimarket |
+| 3 | RS Anutapura | ~0,5 km | Rumah Sakit |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~350 |
+| 11:00-13:00 | Siang | ~400 |
+| 17:00-19:00 | Sore | ~450 |
+| **Rata-rata** | - | **~400 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~35.000 jiwa |
+| Usia Produktif (15-64 th) | ~64% |
+| Jumlah KK (estimasi) | ~9.700 KK |
+| Daya Beli Rendah-Sedang | 55% |
+| Daya Beli Sedang-Tinggi | 45% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 35.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp25.000 | |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp18.750.000** | 35.000 × 3/7 × Rp25.000 × 5% |
+| **Omzet Bulanan** | **Rp562.500.000** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          35.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp25.000
+Conversion:        5%
+
+Omzet Harian:      35.000 × (3/7) × Rp25.000 × 0,05 = Rp18.750.000
+Omzet Bulanan:     Rp18.750.000 × 30 = Rp562.500.000
+
+⚠️ LB 346m² sangat besar untuk Alfamart. Sewa Rp10 juta/bulan.
+   Dekat RS Anutapura, potensi pasien/pegawai.
+```
+
+**VERIFIKASI**: Dekat RS Anutapura, Palu Barat. LB sangat besar, parkir luas.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp120.000.000 |
+| Renovasi (2 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp480.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp10.000.000 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp29.600.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp480.000.000
+TARGET OMZET UNTUNG: >Rp296 juta/bulan
+
+✅ Omzet proyeksi Rp562 juta > BEP Rp296 juta → LAYAK
+⚠️ Sewa Rp10 juta/bulan cukup tinggi. Perlu negosiasi.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 2 lantai, LB 346m² | ☐ |
+| 5 | Negosiasi harga sewa (target Rp6-7 juta) | ☐ |
+| 6 | Tanya warga/pasien RS | ☐ |
+| 7 | Potensi pelanggan RS Anutapura | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**⚠️ LAYAK DENGAN CATATAN (sewa tinggi)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **LB SANGAT BESAR** (346m²) | **SEWA TINGGI** (Rp10 juta/bulan) |
+| **PARKIR SANGAT LUAS** (LT 346m²) | Data listrik tidak diketahui |
+| Dekat RS Anutapura | Data sertifikat tidak diketahui |
+| Omzet proyeksi > BEP | Terlalu besar untuk Alfamart (buang space) |
+
+---
+
+# 📍 LOKASI 100: BANJARMASIN (AHMAD YANI KM 11), KALIMANTAN SELATAN ⭐ #100
+
+## 📋 Data Properti
+
+| Item | Detail |
+|------|--------|
+| Alamat | Jl. Ahmad Yani KM/Pal 11, Banjarmasin |
+| Luas Tanah | 100 m² |
+| Luas Bangunan | 297 m² |
+| Sewa/Tahun | Estimasi Rp96.000.000 |
+| Sewa/Bulan | Estimasi Rp8.000.000 |
+| Daya Listrik | 4.400 VA |
+| Sertifikat | - |
+| Kondisi | 3.5 lantai, siap pakai, premium |
+| Sumber | https://www.brighton.co.id/cari-properti/view/jl-ahmad-yani-km-pal-11-1 |
+| Estimasi Populasi | ~50.000 jiwa |
+
+## 📍 Analisis Lokasi
+
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Aksesibilitas | 10/10 | Jl. Ahmad Yani KM 11, jalan utama Banjarmasin |
+| Visibility | 10/10 | 3.5 lantai, premium, jalan utama |
+| Parkir | 7/10 | LT 100m², cukup |
+| Keamanan | 8/10 | Jalan utama, kawasan premium |
+| Daya Listrik | 9/10 | 4.400 VA, SANGAT CUKUP |
+| Harga Sewa | 5/10 | Rp8 juta/bulan, TINGGI |
+| Kompetitor | 5/10 | Jalan utama, kompetitor banyak |
+| **TOTAL** | **7,7/10** | **BAIK** |
+
+## 🏪 KOMPETITOR DI SEKITAR LOKASI (Radius 2km)
+
+| No | Nama | Jarak | Tipe |
+|----|------|-------|------|
+| 1 | Alfamart terdekat | ~0,5 km | Minimarket |
+| 2 | Indomaret terdekat | ~0,3 km | Minimarket |
+| 3 | Alfamart/Indomaret lain | ~1,0 km | Minimarket |
+| 4 | Swalayan/Mini Market | ~0,8 km | Traditional |
+
+## 🚗 Data Traffic
+
+| Waktu | Jenis | Estimasi Kendaraan/Jam |
+|-------|-------|------------------------|
+| 07:00-09:00 | Pagi | ~600 |
+| 11:00-13:00 | Siang | ~650 |
+| 17:00-19:00 | Sore | ~700 |
+| **Rata-rata** | - | **~650 kendaraan/jam** |
+
+## 👥 Data Demografis
+
+| Parameter | Angka |
+|-----------|-------|
+| Populasi Radius 1km | ~50.000 jiwa |
+| Usia Produktif (15-64 th) | ~68% |
+| Jumlah KK (estimasi) | ~13.900 KK |
+| Daya Beli Sedang | 40% |
+| Daya Beli Tinggi | 60% |
+
+## 📊 Data Potensi Pasar
+
+| Parameter | Angka | Keterangan |
+|-----------|-------|------------|
+| Populasi radius | 50.000 | |
+| Frekuensi belanja | 3x/minggu | |
+| Average transaction | Rp30.000 | Jalan utama premium |
+| Conversion rate | 5% | |
+| **Omzet Harian** | **Rp32.142.857** | 50.000 × 3/7 × Rp30.000 × 5% |
+| **Omzet Bulanan** | **Rp964.285.714** | × 30 hari |
+
+## 📈 PROYEKSI POTENSI PASAR
+
+```
+Populasi:          50.000 jiwa
+Frekuensi:         3x/minggu
+Avg Transaction:   Rp30.000
+Conversion:        5%
+
+Omzet Harian:      50.000 × (3/7) × Rp30.000 × 0,05 = Rp32.142.857
+Omzet Bulanan:     Rp32.142.857 × 30 = Rp964.285.714
+
+✅ Lokasi PREMIUM di jalan utama Banjarmasin.
+   3.5 lantai, daya listrik mencukupi.
+   Kompetitor banyak di jalan utama.
+```
+
+**VERIFIKASI**: Jl. Ahmad Yani KM 11, Banjarmasin. Lokasi premium, jalan utama, 3.5 lantai.
+
+## 💰 Perhitungan Keuangan Lengkap
+
+### A. Total Investasi Awal
+
+| Komponen | Angka |
+|----------|-------|
+| Franchise Fee | Rp45.000.000 |
+| Sewa 1 Tahun (dimuka) | Rp96.000.000 |
+| Renovasi (3.5 lantai) | Rp35.000.000 |
+| Peralatan + AC | Rp55.000.000 |
+| Stok Awal | Rp150.000.000 |
+| Modal Kerja | Rp50.000.000 |
+| Biaya Lain | Rp25.000.000 |
+| **TOTAL** | **Rp456.000.000** |
+
+### B. Biaya Operasional Bulanan
+
+| Komponen | Angka |
+|----------|-------|
+| Gaji Karyawan (4 orang) | Rp12.000.000 |
+| Sewa Toko | Rp8.000.000 |
+| Listrik (~4.000 KWh) | Rp5.000.000 |
+| Internet | Rp300.000 |
+| Air | Rp300.000 |
+| Lain-lain | Rp2.000.000 |
+| **TOTAL OPEX** | **Rp27.600.000** |
+
+### C. Analisis BEP
+
+```
+TOTAL INVESTASI: Rp456.000.000
+TARGET OMZET UNTUNG: >Rp276 juta/bulan
+
+✅ Omzet proyeksi Rp964 juta > BEP Rp276 juta → SANGAT LAYAK
+⚠️ Kompetitor sangat padat di jalan utama.
+```
+
+## ✅ Yang Perlu Dicek Saat Survei
+
+| No | Ceklist | Status |
+|----|---------|--------|
+| 1 | Kompetitor terdekat (Alfamart/Indomaret) | ☐ |
+| 2 | Traffic kendaraan (hitung 1 jam) | ☐ |
+| 3 | Daya listrik di meteran | ☐ |
+| 4 | Kondisi bangunan 3.5 lantai | ☐ |
+| 5 | Negosiasi harga sewa | ☐ |
+| 6 | Tanya warga sekitar | ☐ |
+| 7 | Jarak minimum ke Alfamart/Indomaret | ☐ |
+| 8 | Akses truk bongkar muat | ☐ |
+
+## 🎯 Kesimpulan
+
+**✅ LAYAK untuk Alfamart (lokasi premium)**
+
+| Kelebihan | Kekurangan |
+|-----------|------------|
+| **LOKASI PREMIUM** Jl. Ahmad Yani KM 11 | **SEWA TINGGI** (Rp8 juta/bulan) |
+| **3.5 LANTAI** siap pakai | Kompetitor sangat padat |
+| **DAYA LISTRIK 4.400 VA** (sangat cukup) | Modal awal Rp456 juta |
+| Populasi besar (50.000 jiwa) | |
+| Omzet proyeksi Rp964 juta/bulan | |
 
 ---
 
