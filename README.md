@@ -173,6 +173,7 @@ python scripts/analisis_keuntungan.py
 - **syarat_kur.md** - Syarat dan ketentuan KUR
 - **tips_franchise.md** - Tips memilih franchise
 - **referensi.md** - Daftar referensi lengkap
+- **bank_100_persen.md** - [BARU] Bank yang bisa 100% pembiayaan franchise
 
 ## Referensi
 
