@@ -124,6 +124,13 @@
 - OLX: https://www.olx.co.id
 - Lamudi: https://www.lamudi.co.id
 
+### Analisis Lokasi
+- **ANALISIS_LOKASI_ALFAMART.md**: Proyeksi traffic, kompetitor, sumber data lengkap
+- **PERHITUNGAN_TIM_ALFAMART.md**: Cara tim Alfamart menghitung listrik, traffic, opex
+- **ANALISIS_1_LOKASI_PALEMBANG.md**: Studi kasus mendalam 1 lokasi di Palembang
+- **5_LOKASI_REKOMENDASI.md**: 5 lokasi di Pekanbaru, Palembang, Bandar Lampung
+- **5_LOKASI_SEINDONESIA.md**: 5 lokasi di Jawa, Sumatra, Kalimantan
+
 ### Tips Franchise
 - PIPO Hargiyanto: https://www.youtube.com/@PipoHargiyanto
 - Kompas Bisnis: https://bisnis.kompas.com
