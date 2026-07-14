@@ -224,7 +224,41 @@ KUR adalah program pembiayaan dari pemerintah Indonesia untuk UMKM (Usaha Mikro,
 
 ## Referensi
 
-- Website KUR BRI: https://www.bri.co.id/kur
-- Website KUR Mandiri: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
-- Website KUR BNI: https://www.bni.co.id
-- Otoritas Jasa Keuangan: https://www.ojk.go.id
+### Website Resmi KUR
+- **KUR BRI**: https://kur.bri.co.id - Pendaftaran online KUR BRI
+- **KUR Mandiri**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur - Informasi KUR Mandiri
+- **KUR BNI**: https://www.bni.co.id/kur - Pengajuan KUR BNI
+- **KUR BSI**: https://www.bsi.co.id - KUR Syariah BSI
+- **KUR BTN**: https://www.btn.co.id - KUR untuk UMKM
+
+### Regulasi dan Panduan
+- **Otoritas Jasa Keuangan**: https://www.ojk.go.id - Regulasi KUR
+- **OJK - POJK KUR**: https://www.ojk.go.id/kojk/Default.aspx?pageid=3275&did=10628
+- **Kementerian Koperasi**: https://www.kemenkop.go.id - Data penyaluran KUR
+- **Kementerian Keuangan**: https://www.kemenkeu.go.id - Anggaran subsidi bunga KUR
+
+### Persyaratan dan Dokumen
+- **Ditjen Dukcapil**: https://www.dukcapil.kemendagri.go.id - Pendaftaran e-KTP
+- **Ditjen Pajak**: https://www.pajak.go.id - Pendaftaran NPWP
+- **Kementerian Koperasi - IUMK**: https://www.kemenkop.go.id - Pendaftaran izin usaha
+
+### Artikel dan Tips
+- **Kompas Bisnis**: https://bisnis.kompas.com - Tips pengajuan KUR
+- **Detik Finance**: https://finance.detik.com - Informasi program KUR
+- **Bisnis.com**: https://www.bisnis.com - Berita penyaluran KUR
+
+### Simulasi dan Kalkulator
+- **BRI - Kalkulator Angsuran**: https://kur.bri.co.id - Simulasi cicilan KUR
+- **Mandiri - Simulasi**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
+- **BNI - Kalkulator**: https://www.bni.co.id/kur
+
+### Komunitas
+- **Komunitas UMKM Indonesia**: https://www.facebook.com/groups/umkmindonesia
+- **Forum Bisnis KUR**: https://www.facebook.com/groups/bisniskur
+- **Grup WhatsApp UMKM**: https://chat.whatsapp.com - Komunitas UMKM lokal
+
+---
+
+## Terakhir Diperbarui
+
+14 Juli 2026

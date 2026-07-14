@@ -520,6 +520,41 @@ Hormat saya,
 
 ---
 
+## Referensi
+
+### Portal Properti
+- **Rumah123**: https://www.rumah123.com - Portal properti terlengkap di Indonesia
+- **OLX**: https://www.olx.co.id - Marketplace properti terbesar
+- **Lamudi**: https://www.lamudi.co.id - Fokus properti komersial
+- **UrbanIndo**: https://www.urbanindo.com - Platform properti mudah digunakan
+- **Jualo**: https://www.jualo.com - Banyak pilihan tanah dan ruko
+
+### Riset Harga Pasar
+- **Google Maps**: https://maps.google.com - Riset lokasi dan harga properti sekitar
+- **Badan Pusat Statistik**: https://www.bps.go.id - Data demografis dan ekonomi
+- **Bank Indonesia**: https://www.bi.go.id - Data inflasi dan harga properti
+
+### Tips Negosiasi
+- **Investopedia - Negotiation Tips**: https://www.investopedia.com/articles/personal-finance/093015/5-tips-negotiating-best-possible-price.asp
+- **Forbes - Real Estate Negotiation**: https://www.forbes.com/advisor/mortgages/negotiate-house-price/
+- **Realtor.com - Negotiation Strategies**: https://www.realtor.com/advice/buy/buying-a-home-negotiation-tips/
+
+### Data Harga Properti
+- ** Rumah123 - Harga Ruko**: https://www.rumah123.com/jual/ruko/
+- **OLX - Properti Komersial**: https://www.olx.co.id/properti/dijual_c5185/ruko_g2000002
+- **Lamudi - Ruko Dijual**: https://www.lamudi.co.id/buy/commercial-for-sale/
+
+### Artikel dan Tips
+- **Kompas Properti**: https://properti.kompas.com - Tips negosiasi properti
+- **Detik Properti**: https://properti.detik.com - Artikel strategi nego
+- **Rumah123 Tips**: https://www.rumah123.com/news/ - Tips jual beli properti
+
+### Komunitas
+- **Grup Facebook Properti Indonesia**: https://www.facebook.com/groups/properti.indonesia
+- **Komunitas Investor Properti**: https://www.facebook.com/groups/investorproperti
+
+---
+
 ## Terakhir Diperbarui
 
 14 Juli 2026

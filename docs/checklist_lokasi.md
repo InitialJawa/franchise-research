@@ -310,6 +310,42 @@ Untuk setiap properti potensial:
 
 ---
 
+## Referensi
+
+### Portal Properti Utama
+- **Rumah123**: https://www.rumah123.com - Portal properti terlengkap
+- **OLX**: https://www.olx.co.id - Marketplace properti terbesar
+- **Lamudi**: https://www.lamudi.co.id - Fokus properti komersial
+- **UrbanIndo**: https://www.urbanindo.com - Platform properti mudah
+- **Jualo**: https://www.jualo.com - Banyak pilihan tanah
+
+### Google Maps dan Riset Lokasi
+- **Google Maps**: https://maps.google.com - Riset lokasi dan traffic
+- **Google Earth**: https://earth.google.com - Visualisasi lokasi
+- **Waze**: https://www.waze.com - Data traffic real-time
+
+### Data Demografis
+- **Badan Pusat Statistik**: https://www.bps.go.id - Data penduduk per kecamatan
+- **Dukcapil**: https://www.dukcapil.kemendagri.go.id - Data penduduk
+- **Kemendagri**: https://www.kemendagri.go.id - Data administrasi daerah
+
+### Tips Pencarian Lokasi
+- **Rumah123 Tips**: https://www.rumah123.com/news/ - Tips mencari properti
+- **Kompas Properti**: https://properti.kompas.com - Artikel strategi pencarian
+- **Detik Properti**: https://properti.detik.com - Tips memilih lokasi bisnis
+
+### Analisis Kompetitor
+- **Google Maps - Kompetitor**: Cari "minimarket" di sekitar lokasi target
+- **Alfamart - Daftar Gerai**: https://www.alfamart.co.id - Lokasi gerai Alfamart
+- **Indomaret - Daftar Gerai**: https://www.indomaret.co.id - Lokasi gerai Indomaret
+
+### Komunitas Properti
+- **Grup Facebook Properti**: https://www.facebook.com/groups/properti.indonesia
+- **Komunitas Investor Properti**: https://www.facebook.com/groups/investorproperti
+- **Forum Kaskus Properti**: https://www.kaskus.co.id/group/properti
+
+---
+
 ## Terakhir Diperbarui
 
 14 Juli 2026

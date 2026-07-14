@@ -436,11 +436,37 @@ Dengan program KUR, Anda bisa mendapatkan pembiayaan 100% untuk franchise minima
 
 ## Referensi
 
-- [KUR BRI](https://kur.bri.co.id)
-- [KUR Mandiri](https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur)
-- [KUR BNI](https://eform.bni.co.id)
-- [KUR BSI](https://www.bsi.co.id)
-- [Kementerian Koperasi](https://www.kemenkop.go.id)
+### Website Resmi KUR
+- **KUR BRI**: https://kur.bri.co.id - Pendaftaran online KUR BRI
+- **KUR Mandiri**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur - Informasi KUR Mandiri
+- **KUR BNI**: https://eform.bni.co.id - Formulir pengajuan KUR BNI
+- **KUR BSI**: https://www.bsi.co.id - KUR Syariah BSI
+- **KUR BTN**: https://www.btn.co.id - KUR untuk UMKM
+
+### Data Kuota KUR 2025
+- **Kementerian Koperasi**: https://www.kemenkop.go.id - Data alokasi KUR nasional
+- **Kementerian Keuangan**: https://www.kemenkeu.go.id - Anggaran subsidi bunga KUR
+- **Bank Indonesia**: https://www.bi.go.id - Data penyaluran KUR per bank
+
+### Artikel dan Berita
+- **Kompas Bisnis - KUR 2025**: https://bisnis.kompas.com - Berita kuota KUR terbaru
+- **Detik Finance - KUR**: https://finance.detik.com - Informasi program KUR
+- **Bisnis.com - KUR**: https://www.bisnis.com - Analisis penyaluran KUR
+
+### Simulasi dan Kalkulator
+- **BRI - Kalkulator Angsuran**: https://kur.bri.co.id - Simulasi cicilan KUR
+- **Mandiri - Simulasi KUR**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
+- **BNI - Kalkulator KUR**: https://www.bni.co.id/kur
+
+### Tips Pengajuan KUR
+- **OJK - Panduan KUR**: https://www.ojk.go.id - Regulasi dan panduan KUR
+- **Kementerian UMKM**: https://www.dekop.go.id - Tips sukses pengajuan KUR
+- **Sinar Mas - Tips KUR**: https://www.sinarmas.com - Artikel tips KUR disetujui
+
+### Komunitas dan Forum
+- **Komunitas UMKM Indonesia**: https://www.facebook.com/groups/umkmindonesia
+- **Forum Bisnis KUR**: https://www.facebook.com/groups/bisniskur
+- **Grup WhatsApp UMKM**: https://chat.whatsapp.com - Komunitas UMKM lokal
 
 ---
 

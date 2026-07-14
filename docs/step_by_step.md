@@ -940,11 +940,46 @@ E. RENCANA PENGEMBALIAN
 
 ## Referensi
 
-- [Panduan Franchise Alfamart](https://www.alfamart.co.id/mitra-alfamart/franchise)
-- [Panduan Franchise Indomaret](https://karir.indomaret.co.id/kemitraan)
-- [Panduan KUR BRI](https://www.bri.co.id/kur)
-- [Panduan KUR Mandiri](https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur)
-- [Tips PIPO Hargiyanto](https://www.youtube.com/@PipoHargiyanto)
+### Website Resmi Franchise
+- **Alfamart Franchise**: https://www.alfamart.co.id/mitra-alfamart/franchise - Pendaftaran dan panduan franchise
+- **Indomaret Kemitraan**: https://karir.indomaret.co.id/kemitraan - Program kemitraan Indomaret
+- **O!Save**: https://www.osave.id/ - Franchise hard discount
+- **Alfamidi**: https://www.alfamart.co.id - Mini supermarket dari Alfamart Group
+
+### Pembiayaan KUR
+- **KUR BRI**: https://kur.bri.co.id - Pendaftaran online KUR BRI
+- **KUR Mandiri**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur - KUR Mandiri
+- **KUR BNI**: https://www.bni.co.id/kur - KUR BNI
+- **KUR BSI**: https://www.bsi.co.id - KUR Syariah BSI
+- **OJK - Panduan KUR**: https://www.ojk.go.id - Regulasi dan panduan KUR
+
+### Portal Properti
+- **Rumah123**: https://www.rumah123.com - Pencarian lokasi franchise
+- **OLX**: https://www.olx.co.id - Marketplace properti
+- **Lamudi**: https://www.lamudi.co.id - Properti komersial
+- **UrbanIndo**: https://www.urbanindo.com - Platform properti
+- **Google Maps**: https://maps.google.com - Riset lokasi
+
+### Tips dan Panduan
+- **PIPO Hargiyanto**: https://www.youtube.com/@PipoHargiyanto - 200+ video tips franchise
+- **Kompas Bisnis**: https://bisnis.kompas.com - Artikel franchise
+- **Detik Finance**: https://finance.detik.com - Tips bisnis minimarket
+- **Bisnis.com**: https://www.bisnis.com - Berita franchise Indonesia
+
+### Data Kinerja
+- **IDX Channel**: https://www.idx.co.id - Laporan keuangan Alfamart
+- **IDNFinancials**: https://idnfinancials.com - Data kinerja per region
+- **Kontan**: https://www.kontan.co.id - Berita kinerja Indomaret
+
+### Dokumentasi Hukum
+- **UU No. 20/2008**: UMKM - https://www.kemenkop.go.id
+- **PP No. 17/2014**: Koperasi dan UMKM
+- **Perpres No. 13/2018**: Pemberdayaan UMKM
+
+### Komunitas
+- **Komunitas Franchise Indonesia**: https://www.facebook.com/groups/franchiseindonesia
+- **Komunitas UMKM**: https://www.facebook.com/groups/umkmindonesia
+- **Grup Facebook Properti**: https://www.facebook.com/groups/properti.indonesia
 
 ---
 

@@ -196,3 +196,55 @@ Memilih franchise minimarket membutuhkan pertimbangan matang. Pastikan:
 5. Siap menghadapi tantangan
 
 Dengan persiapan yang matang dan eksekusi yang baik, bisnis franchise minimarket bisa menjadi sumber penghasilan yang menguntungkan.
+
+---
+
+## Referensi
+
+### Website Resmi Franchise
+- **Alfamart**: https://www.alfamart.co.id/mitra-alfamart/franchise
+- **Indomaret**: https://karir.indomaret.co.id/kemitraan
+- **O!Save**: https://www.osave.id/
+- **Alfamidi**: https://www.alfamart.co.id (bagian dari Alfamart Group)
+
+### Data Kinerja Franchise
+- **IDX Channel - Alfamart 2025**: https://www.idx.co.id - Laporan keuangan Alfamart
+- **IDNFinancials - Alfamart Per Region**: https://idnfinancials.com - Data kinerja per region
+- **Kontan - Indomaret**: https://www.kontan.co.id - Berita kinerja Indomaret
+
+### Pembiayaan dan KUR
+- **KUR BRI**: https://kur.bri.co.id - Pendaftaran KUR online
+- **KUR Mandiri**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
+- **KUR BNI**: https://www.bni.co.id/kur
+- **Otoritas Jasa Keuangan**: https://www.ojk.go.id - Informasi regulasi KUR
+
+### Portal Properti
+- **Rumah123**: https://www.rumah123.com - Pencarian lokasi franchise
+- **OLX**: https://www.olx.co.id - Marketplace properti
+- **Lamudi**: https://www.lamudi.co.id - Properti komersial
+
+### Tips dan Artikel
+- **Kompas Bisnis**: https://bisnis.kompas.com - Tips franchise
+- **Detik Finance**: https://finance.detik.com - Artikel bisnis minimarket
+- **Bisnis.com**: https://www.bisnis.com - Berita franchise Indonesia
+
+### YouTube - PIPO Hargiyanto
+- **Channel**: https://www.youtube.com/@PipoHargiyanto
+- **Playlist Franchise**: Video tentang strategi franchise minimarket
+- **Strategi KOMODO**: Kerja Ogah, Modal Ogah, DP Ogah
+
+### Komunitas
+- **Komunitas Franchise Indonesia**: https://www.facebook.com/groups/franchiseindonesia
+- **Komunitas Bisnis UMKM**: https://www.facebook.com/groups/bisnisumkm
+- **Grup Facebook Properti**: https://www.facebook.com/groups/properti.indonesia
+
+### Riset Pasar
+- **McKinsey Indonesia**: https://www.mckinsey.com/industries/retail/our-insights
+- **Statista**: https://www.statista.com - Data retail Indonesia
+- **Euromonitor**: https://www.euromonitor.com - Riset pasar retail
+
+---
+
+## Terakhir Diperbarui
+
+14 Juli 2026

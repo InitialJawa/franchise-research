@@ -219,10 +219,32 @@ Cicilan/Bulan:
 | Surabaya | 60m² | Rp2.86 miliar |
 | Surabaya | 100m² | Rp5.25 miliar |
 
-### Sumber:
-- Rumah123.com
-- OLX.co.id
-- Lamudi.co.id
+### Sumber Data Properti
+- **Rumah123**: https://www.rumah123.com/jual/ruko/ - Ruko dijual di seluruh Indonesia
+- **OLX**: https://www.olx.co.id/properti/dijual_c5185/ruko_g2000002 - Marketplace properti
+- **Lamudi**: https://www.lamudi.co.id/buy/commercial-for-sale/ - Properti komersial
+- **UrbanIndo**: https://www.urbanindo.com/tanah-dijual - Tanah dan ruko
+- **Jualo**: https://www.jualo.com/properti/ruko - Pilihan ruko
+
+### Data Harga Sewa
+- **Rumah123 Sewa**: https://www.rumah123.com/sewa/ruko/ - Ruko disewakan
+- **OLX Sewa**: https://www.olx.co.id/properti/disewa_c5186/ruko_g2000002 - Sewa properti
+- **Lamudi Sewa**: https://www.lamudi.co.id/rent/commercial/ - Sewa komersial
+
+### Perhitungan Keuangan
+- **Kalkulator KUR**: https://kur.bri.co.id - Simulasi cicilan KUR
+- **Bank Mandiri Simulasi**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
+- **BNI Kalkulator**: https://www.bni.co.id/kur
+
+### Artikel Analisis
+- **Kompas Properti**: https://properti.kompas.com - Analisis harga properti
+- **Detik Properti**: https://properti.detik.com - Tren harga properti
+- **Bisnis Properti**: https://www.bisnis.com/properti - Data pasar properti
+
+### Tips Investasi Properti
+- **Investopedia**: https://www.investopedia.com/articles/personal-finance/ - Tips investasi properti
+- **Forbes Real Estate**: https://www.forbes.com/real-estate/ - Artikel investasi properti
+- **Rumah123 Tips**: https://www.rumah123.com/news/ - Tips beli properti
 
 ---
 

@@ -538,10 +538,47 @@ Memastikan usaha stabil dan siap ekspansi
 
 ## Referensi
 
-- [KUR BRI](https://kur.bri.co.id)
-- [Franchise Alfamart](https://www.alfamart.co.id/mitra-alfamart/franchise)
-- [Franchise Indomaret](https://karir.indomaret.co.id/kemitraan)
-- [PIPO Hargiyanto](https://www.youtube.com/@PipoHargiyanto)
+### Website Resmi Franchise
+- **Alfamart Franchise**: https://www.alfamart.co.id/mitra-alfamart/franchise - Pendaftaran franchise Alfamart
+- **Indomaret Kemitraan**: https://karir.indomaret.co.id/kemitraan - Program kemitraan Indomaret
+- **O!Save**: https://www.osave.id/ - Franchise hard discount
+
+### Pembiayaan KUR
+- **KUR BRI**: https://kur.bri.co.id - Pendaftaran online KUR BRI (kuota terbesar)
+- **KUR Mandiri**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur - KUR Mandiri
+- **KUR BNI**: https://www.bni.co.id/kur - KUR BNI
+- **KUR BSI**: https://www.bsi.co.id - KUR Syariah
+
+### Portal Properti untuk Riset
+- **Rumah123**: https://www.rumah123.com - Pencarian ruko sewa
+- **OLX**: https://www.olx.co.id - Marketplace properti
+- **Lamudi**: https://www.lamudi.co.id - Properti komersial
+- **Facebook Marketplace**: Cari "ruko sewa [lokasi]"
+
+### Tips dari Praktisi
+- **PIPO Hargiyanto**: https://www.youtube.com/@PipoHargiyanto - 200+ video tips franchise
+- **Strategi KOMODO**: Kerja Ogah, Modal Ogah, DP Ogah
+- **Playlist Franchise**: Video panduan lengkap franchise minimarket
+
+### Data Kinerja Alfamart
+- **IDX Channel**: https://www.idx.co.id - Laporan keuangan Alfamart 2025
+- **IDNFinancials**: https://idnfinancials.com - Data kinerja per region
+- **Kontan**: https://www.kontan.co.id - Berita kinerja Alfamart
+
+### Tips Negosiasi
+- **Rumah123 Tips**: https://www.rumah123.com/news/ - Tips nego harga properti
+- **Kompas Properti**: https://properti.kompas.com - Artikel negosiasi
+- **Investopedia**: https://www.investopedia.com - Tips negosiasi properti
+
+### Komunitas
+- **Komunitas Franchise Indonesia**: https://www.facebook.com/groups/franchiseindonesia
+- **Komunitas UMKM**: https://www.facebook.com/groups/umkmindonesia
+- **Grup WhatsApp UMKM**: https://chat.whatsapp.com - Komunitas bisnis lokal
+
+### Panduan Bisnis
+- **Kementerian Koperasi**: https://www.kemenkop.go.id - Panduan UMKM
+- **Kementerian UMKM**: https://www.dekop.go.id - Regulasi usaha kecil
+- **OJK**: https://www.ojk.go.id - Informasi pembiayaan UMKM
 
 ---
 

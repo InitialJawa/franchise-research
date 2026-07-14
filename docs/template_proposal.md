@@ -399,6 +399,39 @@ D. ANALISIS KEUANGAN
 
 ---
 
+## Referensi
+
+### Template dan Contoh Proposal
+- **BRI - Template Proposal KUR**: https://kur.bri.co.id - Template resmi pengajuan KUR
+- **Mandiri - Formulir KUR**: https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur
+- **BNI - Pengajuan Online**: https://www.bni.co.id/kur
+
+### Panduan Membuat Proposal
+- **SBA.gov - Business Plan**: https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan
+- **Investopedia - Business Proposal**: https://www.investopedia.com/articles/professional-ed/11/essential-business-proposal-components.asp
+- **Harvard Business Review - Writing Proposals**: https://hbr.org/topic/subject/writing
+
+### Data Keuangan dan Proyeksi
+- **IDX Channel - Laporan Keuangan**: https://www.idx.co.id - Data keuangan publik
+- **IDNFinancials**: https://idnfinancials.com - Analisis keuangan perusahaan
+- **Bank Indonesia - Suku Bunga**: https://www.bi.go.id - Data suku bunga acuan
+
+### Contoh Proyeksi Keuangan
+- **Alfamart - Laporan Tahunan**: https://www.alfamart.co.id - Data kinerja keuangan
+- **Indomaret - Profil Perusahaan**: https://www.indomaret.co.id - Data operasional
+
+### Tips Membuat Proposal yang Baik
+- **Forbes - Business Plan Tips**: https://www.forbes.com/advisor/business/how-to-write-a-business-plan/
+- **Entrepreneur - Proposal Writing**: https://www.entrepreneur.com/business-terms/writing-a-business-plan/230773
+- **SCORE - Business Proposal Template**: https://www.score.org/resource/business-plan-template-startup-business
+
+### Dokumen Pendukung
+- **Kementerian Koperasi - IUMK**: https://www.kemenkop.go.id - Pendaftaran izin usaha
+- **OJK - Persyaratan KUR**: https://www.ojk.go.id - Regulasi pembiayaan UMKM
+- **Ditjen Pajak - NPWP**: https://www.pajak.go.id - Pendaftaran NPWP
+
+---
+
 ## Terakhir Diperbarui
 
 14 Juli 2026
