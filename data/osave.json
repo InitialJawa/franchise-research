@@ -1,0 +1,57 @@
+{
+  "nama": "O!Save",
+  "website": "https://www.osave.id/",
+  "deskripsi": "Franchise minimarket hard discount dengan konsep harga miring",
+  "tipe_gerai": [
+    {
+      "nama": "O!Save",
+      "rak": 15,
+      "modal_awal": 400000000,
+      "modal_gedung": 0,
+      "biaya_stok": 0,
+      "total_modal": 400000000,
+      "luas_minimal": 150,
+      "target_omzet": 350000000
+    },
+    {
+      "nama": "O!Save Plus",
+      "rak": 20,
+      "modal_awal": 500000000,
+      "modal_gedung": 0,
+      "biaya_stok": 0,
+      "total_modal": 500000000,
+      "luas_minimal": 200,
+      "target_omzet": 450000000
+    }
+  ],
+  "biaya_franchise": {
+    "franchise_fee": "Termasuk dalam modal",
+    "masa_berlaku": "5 tahun",
+    "perpanjangan": "Hubungi O!Save",
+    "royalti": "0%"
+  },
+  "syarat": {
+    "lokasi": "Sudah ada lokasi atau dicarikan oleh O!Save",
+    "modal_sendiri": "Minimal 30-40% dari total modal",
+    "kredit": "Bisa dibantu oleh O!Save",
+    "karyawan": "Disediakan oleh O!Save",
+    "pelatihan": "Disediakan oleh O!Save"
+  },
+  "keuntungan": {
+    "omzet_bulanan": "Rp350-450 juta",
+    "laba_bersih": "Rp20-50 juta/bulan",
+    "margin": "5-7%",
+    "balik_modal": "Belum ada data pasti"
+  },
+  "resiko": [
+    "Brand masih baru di Indonesia",
+    "Belum ada data balik modal yang jelas",
+    "Lokasi strategis sulit didapat",
+    "Persaingan dengan Alfamart/Indomaret"
+  ],
+  "sumber": [
+    "https://www.osave.id/",
+    "https://id.wikipedia.org/wiki/O!Save",
+    "https://franchiseness.com/franchise-o-save/"
+  ]
+}

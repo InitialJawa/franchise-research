@@ -1,0 +1,67 @@
+{
+  "nama": "Indomaret",
+  "website": "https://karir.indomaret.co.id/kemitraan",
+  "deskripsi": "Jaringan minimarket terbesar kedua di Indonesia dengan 20.000+ gerai",
+  "tipe_gerai": [
+    {
+      "nama": "Indomaret",
+      "rak": 18,
+      "modal_awal": 394000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 200000000,
+      "total_modal": 644000000,
+      "luas_minimal": 150,
+      "target_omzet": 400000000
+    },
+    {
+      "nama": "Indomaret Plus",
+      "rak": 25,
+      "modal_awal": 500000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 250000000,
+      "total_modal": 800000000,
+      "luas_minimal": 200,
+      "target_omzet": 600000000
+    },
+    {
+      "nama": "Indomaret Point",
+      "rak": 30,
+      "modal_awal": 700000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 300000000,
+      "total_modal": 1050000000,
+      "luas_minimal": 250,
+      "target_omzet": 800000000
+    }
+  ],
+  "biaya_franchise": {
+    "franchise_fee": 36000000,
+    "masa_berlaku": "5 tahun",
+    "perpanjangan": "Rp20-30 juta",
+    "royalti": "0-4%"
+  },
+  "syarat": {
+    "lokasi": "Sudah ada lokasi atau dicarikan oleh Indomaret",
+    "modal_sendiri": "Minimal 30-40% dari total modal",
+    "kredit": "Bisa dibantu oleh Indomaret",
+    "karyawan": "Disediakan oleh Indomaret",
+    "pelatihan": "Disediakan oleh Indomaret"
+  },
+  "keuntungan": {
+    "omzet_bulanan": "Rp400-800 juta",
+    "laba_bersih": "Rp22-70 juta/bulan",
+    "margin": "7-9%",
+    "balik_modal": "2-3 tahun"
+  },
+  "resiko": [
+    "Lokasi strategis sulit didapat",
+    "Persaingan ketat dengan Alfamart",
+    "Ketergantungan pada supplier",
+    "Biaya operasional tinggi"
+  ],
+  "sumber": [
+    "https://karir.indomaret.co.id/kemitraan",
+    "https://riau.disway.id",
+    "https://franchiseindo.co.id"
+  ]
+}

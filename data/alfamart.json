@@ -1,0 +1,77 @@
+{
+  "nama": "Alfamart",
+  "website": "https://www.alfamart.co.id/mitra-alfamart/franchise",
+  "deskripsi": "Franchise minimarket terbesar di Indonesia dengan jaringan 20.000+ gerai",
+  "tipe_gerai": [
+    {
+      "nama": "Alfamart",
+      "rak": 9,
+      "modal_awal": 300000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 150000000,
+      "total_modal": 500000000,
+      "luas_minimal": 120,
+      "target_omzet": 300000000
+    },
+    {
+      "nama": "Alfamart",
+      "rak": 18,
+      "modal_awal": 400000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 200000000,
+      "total_modal": 650000000,
+      "luas_minimal": 180,
+      "target_omzet": 500000000
+    },
+    {
+      "nama": "Alfamart Plus",
+      "rak": 18,
+      "modal_awal": 450000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 200000000,
+      "total_modal": 700000000,
+      "luas_minimal": 200,
+      "target_omzet": 600000000
+    },
+    {
+      "nama": "Alfamidi",
+      "rak": 18,
+      "modal_awal": 500000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 250000000,
+      "total_modal": 800000000,
+      "luas_minimal": 250,
+      "target_omzet": 700000000
+    }
+  ],
+  "biaya_franchise": {
+    "franchise_fee": 45000000,
+    "masa_berlaku": "5 tahun",
+    "perpanjangan": "Rp20-30 juta",
+    "royalti": "0-4%"
+  },
+  "syarat": {
+    "lokasi": "Sudah ada lokasi atau dicarikan oleh Alfamart",
+    "modal_sendiri": "Minimal 30-40% dari total modal",
+    "kredit": "Bisa dibantu oleh Alfamart",
+    "karyawan": "Disediakan oleh Alfamart",
+    "pelatihan": "Disediakan oleh Alfamart"
+  },
+  "keuntungan": {
+    "omzet_bulanan": "Rp300-500 juta",
+    "laba_bersih": "Rp22-70 juta/bulan",
+    "margin": "7-9%",
+    "balik_modal": "2-3 tahun"
+  },
+  "resiko": [
+    "Lokasi strategis sulit didapat",
+    "Persaingan ketat dengan Indomaret",
+    "Ketergantungan pada supplier",
+    "Biaya operasional tinggi"
+  ],
+  "sumber": [
+    "https://www.alfamart.co.id/mitra-alfamart/franchise",
+    "https://bangka.tribunnews.com",
+    "https://franchiseindo.co.id"
+  ]
+}

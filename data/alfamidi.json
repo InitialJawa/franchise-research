@@ -1,0 +1,66 @@
+{
+  "nama": "Alfamidi",
+  "website": "https://www.alfamart.co.id/mitra-alfamart/franchise",
+  "deskripsi": "Mini supermarket dengan konsep lebih luas dan lengkap",
+  "tipe_gerai": [
+    {
+      "nama": "Alfamidi",
+      "rak": 20,
+      "modal_awal": 500000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 250000000,
+      "total_modal": 800000000,
+      "luas_minimal": 250,
+      "target_omzet": 500000000
+    },
+    {
+      "nama": "Alfamidi Plus",
+      "rak": 30,
+      "modal_awal": 700000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 300000000,
+      "total_modal": 1050000000,
+      "luas_minimal": 350,
+      "target_omzet": 700000000
+    },
+    {
+      "nama": "Alfamidi Mega",
+      "rak": 40,
+      "modal_awal": 1000000000,
+      "modal_gedung": 50000000,
+      "biaya_stok": 450000000,
+      "total_modal": 1500000000,
+      "luas_minimal": 500,
+      "target_omzet": 1000000000
+    }
+  ],
+  "biaya_franchise": {
+    "franchise_fee": "Hubungi sales Alfamidi",
+    "masa_berlaku": "5 tahun",
+    "perpanjangan": "Hubungi Alfamidi",
+    "royalti": "0-4%"
+  },
+  "syarat": {
+    "lokasi": "Sudah ada lokasi atau dicarikan oleh Alfamidi",
+    "modal_sendiri": "Minimal 30-40% dari total modal",
+    "kredit": "Bisa dibantu oleh Alfamidi",
+    "karyawan": "Disediakan oleh Alfamidi",
+    "pelatihan": "Disediakan oleh Alfamidi"
+  },
+  "keuntungan": {
+    "omzet_bulanan": "Rp500 juta-1 miliar",
+    "laba_bersih": "Rp35-90 juta/bulan",
+    "margin": "7-9%",
+    "balik_modal": "3-4 tahun"
+  },
+  "resiko": [
+    "Modal lebih besar dari Alfamart/Indomaret",
+    "Lokasi strategis sulit didapat",
+    "Persaingan ketat dengan minimarket lain",
+    "Biaya operasional lebih tinggi"
+  ],
+  "sumber": [
+    "https://www.alfamart.co.id/mitra-alfamart/franchise",
+    "https://franchiseindo.co.id/franchise-alfamidi/"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "nama": "KUR (Kredit Usaha Rakyat)",
+  "deskripsi": "Program pembiayaan dari pemerintah untuk UMKM dengan bunga rendah",
+  "bank_penyalur": [
+    {
+      "nama": "BRI",
+      "website": "https://www.bri.co.id/kur",
+      "tipe_kur": [
+        {
+          "nama": "KUR Super Mikro",
+          "plafon_min": 1000000,
+          "plafon_max": 10000000,
+          "bunga": 3,
+          "tenor_max": 36,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Mikro",
+          "plafon_min": 10000000,
+          "plafon_max": 100000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Kecil",
+          "plafon_min": 100000000,
+          "plafon_max": 500000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Wajib (SHM/SHGB, BPKB)"
+        }
+      ]
+    },
+    {
+      "nama": "Bank Mandiri",
+      "website": "https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur",
+      "tipe_kur": [
+        {
+          "nama": "KUR Super Mikro",
+          "plafon_min": 1000000,
+          "plafon_max": 10000000,
+          "bunga": 3,
+          "tenor_max": 36,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Mikro",
+          "plafon_min": 10000000,
+          "plafon_max": 100000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Kecil",
+          "plafon_min": 100000000,
+          "plafon_max": 500000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Wajib (SHM/SHGB, BPKB)"
+        }
+      ]
+    },
+    {
+      "nama": "BNI",
+      "website": "https://www.bni.co.id",
+      "tipe_kur": [
+        {
+          "nama": "KUR Super Mikro",
+          "plafon_min": 1000000,
+          "plafon_max": 10000000,
+          "bunga": 3,
+          "tenor_max": 36,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Mikro",
+          "plafon_min": 10000000,
+          "plafon_max": 100000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Tidak diperlukan"
+        },
+        {
+          "nama": "KUR Kecil",
+          "plafon_min": 100000000,
+          "plafon_max": 500000000,
+          "bunga": 6,
+          "tenor_max": 60,
+          "agunan": "Wajib (SHM/SHGB, BPKB)"
+        }
+      ]
+    }
+  ],
+  "syarat_umum": [
+    "WNI, usia minimal 21 tahun atau sudah menikah",
+    "Usaha produktif minimal 6 bulan",
+    "Tidak sedang memiliki kredit produktif lain",
+    "Riwayat kredit bersih (tidak ada tunggakan)",
+    "Memiliki usaha yang layak dibiayai"
+  ],
+  "dokumen": [
+    "e-KTP (Wajib)",
+    "Kartu Keluarga (Wajib)",
+    "NPWP (Wajib untuk pinjaman >Rp50 juta)",
+    "Surat Izin Usaha (IUMK atau surat keterangan usaha dari kelurahan)",
+    "Buku Tabungan (Rekening aktif 6 bulan)",
+    "Akta Nikah (Jika sudah menikah)"
+  ],
+  "cara_daftar": {
+    "online": [
+      "Akses kur.bri.co.id atau kur.bankmandiri.co.id",
+      "Buat akun dan login",
+      "Isi formulir pengajuan",
+      "Unggah dokumen yang diperlukan",
+      "Tunggu verifikasi 3-5 hari kerja"
+    ],
+    "offline": [
+      "Datang ke kantor cabang bank terdekat",
+      "Siapkan dokumen lengkap",
+      "Isi formulir pengajuan",
+      "Ikuti wawancara dan survei",
+      "Tunggu persetujuan"
+    ]
+  },
+  "sumber": [
+    "https://www.bri.co.id/kur",
+    "https://www.bankmandiri.co.id/kredit-usaha-rakyat-kur",
+    "https://www.bni.co.id"
+  ]
+}
