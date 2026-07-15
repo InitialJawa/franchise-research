@@ -1,15 +1,15 @@
-# Franchise Minimarket Research
+# Riset Bisnis — Franchise & Pertanian Greenhouse
 
-Riset komprehensif untuk memulai bisnis franchise minimarket dengan pembiayaan dari bank.
+Riset komprehensif untuk menentukan bisnis terbaik di Plosokerep, Sumberlawang, Sragen.
 
 ## Ringkasan Proyek
 
-**Tujuan**: Memulai bisnis franchise minimarket (Alfamart/Indomaret/O!Save) dengan pembiayaan dari bank, membayar cicilan dari keuntungan usaha.
+**Tujuan**: Membandingkan peluang bisnis franchise minimarket vs greenhouse pertanian untuk lokasi Plosokerep, Sragen, Jawa Tengah.
 
-**Profil Investasi**:
-- Gaji bulanan: Rp15-18 juta (pekerjaan utama)
-- Modal sendiri: Rp80 juta
-- Target: Cicilan dibayar dari keuntungan franchise
+**Opsi yang Dianalisis:**
+1. **Franchise Minimarket** (Alfamart) — modal besar, pendapatan stabil
+2. **Greenhouse Melon Premium** — modal sedang, ROI tinggi, ekosistem sudah ada
+3. **Greenhouse Cabai** — modal sedang, BEP cepat, cash flow rutin
 
 ## Franchise yang Dianalisis
 
@@ -56,30 +56,25 @@ Riset komprehensif untuk memulai bisnis franchise minimarket dengan pembiayaan d
 
 ```
 franchise-research/
-├── README.md                    # File ini
-├── requirements.txt             # Dependencies
-├── run_analysis.py              # Script utama analisis
-├── data/
-│   ├── alfamart.json           # Data franchise Alfamart
-│   ├── indomaret.json          # Data franchise Indomaret
-│   ├── osave.json              # Data franchise O!Save
-│   ├── alfamidi.json           # Data franchise Alfamidi
-│   └── kur.json                # Data pembiayaan KUR
-├── scripts/
-│   ├── compare_franchise.py    # Script perbandingan franchise
-│   ├── simulasi_kur.py         # Simulasi cicilan KUR
-│   └── analisis_keuntungan.py  # Analisis proyeksi keuntungan
-├── notes/
-│   ├── pipo_hargiyanto.md      # Riset strategi PIPO Hargiyanto
-│   └── lokasi.md               # Catatan riset lokasi
+├── README.md                         # File ini
+├── requirements.txt                  # Dependencies
+├── run_analysis.py                   # Script utama analisis
+├── data/                             # Data mentah
+├── scripts/                          # Script Python analisis
+├── notes/                            # Catatan riset
 └── docs/
-    ├── syarat_kur.md           # Syarat dan ketentuan KUR
-    ├── tips_franchise.md       # Tips memilih franchise
-    ├── referensi.md            # Daftar referensi
-    ├── step_by_step.md         # Panduan step-by-step lengkap
-    ├── checklist_lokasi.md     # Checklist riset lokasi online
-    ├── template_proposal.md    # Template proposal bank
-    └── nego_harga.md           # Panduan negosiasi harga
+    ├── franchise/                    # Riset franchise minimarket
+    │   ├── REKOMENDASI_100_LOKASI.md # 100 lokasi franchise terbaik
+    │   ├── REKOMENDASI_LOKASI.md     # Analisis lokasi prioritas
+    │   ├── KESIMPULAN_AKHIR.md       # Kesimpulan & rekomendasi akhir
+    │   ├── hitungan_lengkap.md       # Hitungan keuangan lengkap
+    │   ├── syarat_kur.md             # Syarat KUR
+    │   ├── tips_franchise.md         # Tips franchise
+    │   ├── step_by_step.md           # Panduan step-by-step
+    │   └── ... (20 file franchise lainnya)
+    │
+    └── pertanian/                    # Riset greenhouse pertanian
+        └── KOMPARASI_KOMODITAS_GREENHOUSE.md  # Melon vs Cabai vs Semangka
 ```
 
 ## Cara Menggunakan
@@ -158,24 +153,22 @@ python scripts/analisis_keuntungan.py
 
 ## Dokumen Pendukung
 
-### Checklist dan Template
-- **checklist_lokasi.md** - Checklist riset lokasi online
-- **template_proposal.md** - Template proposal bank untuk KUR
-- **nego_harga.md** - Panduan lengkap negosiasi harga
-- **step_by_step.md** - Panduan step-by-step lengkap
+### Franchise (`docs/franchise/`)
+- **REKOMENDASI_100_LOKASI.md** - 100 lokasi franchise terbaik di Indonesia
+- **KESIMPULAN_AKHIR.md** - Kesimpulan & rekomendasi bisnis franchise
+- **hitungan_lengkap.md** - Hitungan keuangan lengkap
+- **rencana_aksi_8_tahap.md** - Rencana aksi 8 tahap
+- **checklist_lokasi.md** - Checklist riset lokasi
+- **template_proposal.md** - Template proposal bank
+- **nego_harga.md** - Panduan negosiasi
 
-### Data dan Analisis
+### Pertanian (`docs/pertanian/`)
+- **KOMPARASI_KOMODITAS_GREENHOUSE.md** - Perbandingan adil melon vs cabai vs semangka di greenhouse yang sama
+
+### Lainnya
 - **data/*.json** - Data franchise dan KUR
 - **scripts/*.py** - Script analisis Python
 - **notes/*.md** - Catatan riset
-
-### Dokumentasi
-- **syarat_kur.md** - Syarat dan ketentuan KUR
-- **tips_franchise.md** - Tips memilih franchise
-- **referensi.md** - Daftar referensi lengkap
-- **bank_100_persen.md** - Bank yang bisa 100% pembiayaan franchise
-- **hitungan_lengkap.md** - [BARU] Hitungan lengkap termasuk tanah/bangunan
-- **rencana_aksi_8_tahap.md** - [BARU] Rencana aksi 8 tahap strategi SEWA
 
 ## Referensi
 
@@ -188,4 +181,4 @@ python scripts/analisis_keuntungan.py
 
 ## Terakhir Diperbarui
 
-14 Juli 2026
+15 Juli 2026
